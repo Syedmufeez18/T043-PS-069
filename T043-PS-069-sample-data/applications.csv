@@ -1,0 +1,501 @@
+application_id,applicant_name,date_of_birth,gender,parent_name,category,minority,disability,home_district,course,year_of_study,institution_code,previous_exam_pct,family_income,income_cert_date,scheme_applied,application_ts,central_scholarship,central_tuition_component
+APL-0001,Abhishek Kumar,2005-04-01,M,Lokesh Acharya,SC,false,false,Dharwad,BSC,1,INS-011,52.77,82647.00,2026-02-19,SCH-05,2026-07-01 11:05:00,false,0.00
+APL-0002,Sowmya Prabhu,2006-01-17,F,Imran Jain,GEN,false,false,Bengaluru Urban,DIPLOMA,1,INS-040,80.15,127783.00,2026-04-27,SCH-01,2026-07-01 12:18:00,false,0.00
+APL-0003,Lakshmi Kumar,2005-01-09,F,Raghav Kamath,OBC,false,false,Belagavi,BPHARM,1,INS-010,83.98,579725.00,2026-03-15,SCH-01,2026-07-01 12:50:00,false,0.00
+APL-0004,Ananya Kumar,2006-07-05,F,Chetan Murthy,OBC,false,false,Dharwad,BPHARM,1,INS-038,89.86,87682.00,2026-02-21,SCH-06,2026-07-01 13:40:00,false,0.00
+APL-0005,Raghav Joshi,2008-01-12,M,Mohammed Sheikh,OBC,false,false,Bengaluru Urban,BPHARM,1,INS-024,75.52,30142.00,2026-01-16,SCH-02,2026-07-01 14:24:00,false,0.00
+APL-0006,Sharath Patil,2006-10-19,M,Prakash Yadav,GEN,false,false,Dharwad,BA,1,INS-006,87.17,54289.00,2026-01-04,SCH-05,2026-07-01 14:41:00,false,0.00
+APL-0007,Asha Khan,2008-08-05,F,Kiran Gowda,GEN,false,false,Mysuru,BA,1,INS-027,48.01,105960.00,2026-07-02,SCH-03,2026-07-01 16:40:00,false,0.00
+APL-0008,Sharath Yadav,2007-02-28,M,Arjun Rao,OBC,true,false,Tumakuru,BSC,1,INS-008,63.05,192908.00,2026-05-25,SCH-02,2026-07-01 17:00:00,false,0.00
+APL-0009,Sumanth Nair,2005-06-19,M,Pradeep Shetty,ST,false,true,Ballari,BCOM,1,INS-013,83.77,223423.00,2026-02-18,SCH-06,2026-07-01 17:46:00,false,0.00
+APL-0010,Lokesh Reddy,2008-10-04,M,Suresh Iyer,SC,false,false,Mysuru,BCOM,1,INS-036,65.88,40770.00,2026-02-15,SCH-06,2026-07-01 18:51:00,false,0.00
+APL-0011,Asha Reddy,2007-09-12,F,Sandeep Sheikh,SC,false,false,Dharwad,BCOM,1,INS-020,93.41,572027.00,2026-02-13,SCH-03,2026-07-01 19:14:00,false,0.00
+APL-0012,Ravi Pillai,2006-06-13,M,Imran Desai,OBC,false,false,Hassan,MBBS,1,INS-032,48.81,743840.00,2026-07-02,SCH-03,2026-07-01 19:47:00,false,0.00
+APL-0013,Pradeep Rao,2007-10-27,M,Darshan Rao,OBC,true,false,Bengaluru Urban,BCOM,1,INS-027,73.95,779770.00,2026-05-11,SCH-05,2026-07-01 20:22:00,false,0.00
+APL-0014,Madhuri Sheikh,2006-06-05,F,Rajesh Iyer,GEN,true,false,Mysuru,BPHARM,1,INS-017,87.52,227826.00,2026-03-05,SCH-04,2026-07-02 09:09:00,false,0.00
+APL-0015,Usha Singh,2005-09-11,F,Kiran Desai,SC,true,false,Belagavi,BCOM,1,INS-008,93.19,327814.00,2026-06-22,SCH-03,2026-07-02 09:12:00,false,0.00
+APL-0016,Mohammed Singh,2007-02-23,M,Mohan Kumar,OBC,false,false,Shivamogga,BPHARM,1,INS-003,72.27,569693.00,2026-04-03,SCH-02,2026-07-02 09:26:00,false,0.00
+APL-0017,Usha Chowdhury,2007-02-23,F,Santosh Setty,GEN,false,false,Kalaburagi,DIPLOMA,1,INS-005,85.49,782452.00,2026-04-03,SCH-06,2026-07-02 10:08:00,false,0.00
+APL-0018,Prakash Rao,2007-07-02,M,Anil Prabhu,OBC,false,false,Mysuru,DIPLOMA,1,INS-012,91.91,623864.00,2026-01-01,SCH-01,2026-07-02 10:36:00,false,0.00
+APL-0019,Karthik Setty,2007-06-12,M,Rohit Menon,OBC,false,false,Mysuru,DIPLOMA,1,INS-019,67.21,421015.00,2026-06-18,SCH-01,2026-07-02 12:39:00,false,0.00
+APL-0020,Fathima Kumar,2005-09-12,F,Mohan Murthy,GEN,false,false,Tumakuru,BE,1,INS-028,61.82,127916.00,2026-04-06,SCH-05,2026-07-02 13:25:00,false,0.00
+APL-0021,Rajesh Sheikh,2007-03-05,M,Raghav Murthy,GEN,false,false,Hassan,BPHARM,1,INS-024,84.04,245876.00,2026-01-13,SCH-02,2026-07-02 14:15:00,false,0.00
+APL-0022,Divya Verma,2007-06-19,F,Mohan Naik,GEN,false,false,Belagavi,BE,1,INS-021,79.78,130804.00,2026-02-03,SCH-05,2026-07-02 14:37:00,false,0.00
+APL-0023,Sudha Rao,2008-11-19,F,Manoj Sheikh,GEN,false,false,Ballari,BPHARM,1,INS-031,61.31,212992.00,2026-06-21,SCH-03,2026-07-02 15:39:00,false,0.00
+APL-0024,Jagadish Khan,2006-07-23,M,Lokesh Murthy,GEN,false,false,Kalaburagi,BA,1,INS-027,94.21,84584.00,2026-02-26,SCH-02,2026-07-02 17:55:00,false,0.00
+APL-0025,Meena Naik,2005-02-08,F,Rajesh Kamath,OBC,false,false,Ballari,BE,1,INS-028,76.98,151012.00,2026-04-13,SCH-06,2026-07-02 19:32:00,false,0.00
+APL-0026,Rekha Kulkarni,2005-05-08,F,Mohammed Kulkarni,ST,false,false,Hassan,BCOM,1,INS-029,77.59,532259.00,2026-06-16,SCH-01,2026-07-02 20:36:00,false,0.00
+APL-0027,Kavya Shetty,2008-05-24,F,Mohan Chowdhury,SC,false,false,Belagavi,BPHARM,1,INS-003,86.16,33137.00,2026-07-24,SCH-02,2026-07-02 20:37:00,false,0.00
+APL-0028,Rekha Acharya,2007-10-24,F,Deepak Bhat,OBC,false,false,Dharwad,BA,1,INS-006,69.61,211628.00,2026-01-21,SCH-06,2026-07-02 20:43:00,false,0.00
+APL-0029,Geetha Nair,2005-01-28,F,Naveen Acharya,SC,false,false,Mysuru,BCOM,1,INS-020,87.40,221988.00,2026-03-03,SCH-03,2026-07-02 20:47:00,false,0.00
+APL-0030,Imran Rao,2007-12-21,M,Kiran Menon,OBC,false,false,Tumakuru,MBBS,1,INS-039,83.27,35276.00,2026-07-18,SCH-04,2026-07-02 21:00:00,false,0.00
+APL-0031,Sumanth Menon,2007-09-17,M,Chetan Menon,OBC,false,false,Bengaluru Urban,BE,1,INS-014,68.60,610238.00,2026-02-12,SCH-01,2026-07-03 09:11:00,false,0.00
+APL-0032,Prakash Hegde,2006-05-11,M,Rohit Menon,GEN,false,false,Dharwad,BPHARM,1,INS-003,96.63,83236.00,2026-07-03,SCH-03,2026-07-03 09:13:00,false,0.00
+APL-0033,Pavithra Yadav,2006-09-04,F,Mahesh Acharya,SC,true,false,Shivamogga,BE,1,INS-037,52.71,499418.00,2026-06-21,SCH-04,2026-07-03 09:17:00,false,0.00
+APL-0034,Keerthi Jain,2007-05-15,F,Deepak Yadav,GEN,false,false,Tumakuru,DIPLOMA,1,INS-040,81.50,311602.00,2026-03-15,SCH-01,2026-07-03 11:17:00,false,0.00
+APL-0035,Asha Joshi,2006-05-02,F,Manoj Murthy,OBC,false,false,Kalaburagi,BCOM,1,INS-036,81.08,202377.00,2026-04-05,SCH-06,2026-07-03 11:19:00,false,0.00
+APL-0036,Geetha Patil,2005-02-14,F,Hemanth Pillai,OBC,false,false,Mysuru,BE,1,INS-037,49.72,72024.00,2026-07-14,SCH-01,2026-07-03 11:43:00,false,0.00
+APL-0037,Chetan Nair,2006-05-24,M,Abhishek Murthy,OBC,false,false,Belagavi,DIPLOMA,1,INS-026,85.25,198065.00,2026-06-03,SCH-02,2026-07-03 12:36:00,false,0.00
+APL-0038,Arjun Gowda,2007-01-26,M,Lokesh Nair,GEN,false,false,Ballari,DIPLOMA,1,INS-033,76.86,65775.00,2026-07-07,SCH-04,2026-07-03 14:28:00,false,0.00
+APL-0039,Mohan Kumar,2006-01-21,M,Venkatesh Chowdhury,SC,false,false,Shivamogga,BPHARM,1,INS-024,53.26,347227.00,2026-04-08,SCH-06,2026-07-03 17:12:00,false,0.00
+APL-0040,Chetan Bhat,2008-01-11,M,Chetan Patil,OBC,true,false,Dakshina Kannada,BPHARM,1,INS-038,84.64,285851.00,2026-05-02,SCH-02,2026-07-03 17:41:00,false,0.00
+APL-0041,Yashwanth Jain,2007-08-19,M,Vikram Iyer,GEN,true,false,Tumakuru,MBBS,1,INS-011,67.86,206527.00,2026-02-11,SCH-04,2026-07-03 18:14:00,false,0.00
+APL-0042,Ganesh Rao,2008-07-14,M,Rahul Hegde,GEN,false,false,Bengaluru Urban,BA,1,INS-034,73.34,56375.00,2026-07-22,SCH-05,2026-07-03 18:55:00,false,0.00
+APL-0043,Meena Murthy,2007-11-09,F,Girish Kumar,OBC,true,false,Tumakuru,BE,1,INS-023,61.95,33666.00,2026-03-21,SCH-06,2026-07-03 19:36:00,false,0.00
+APL-0044,Arjun Hegde,2008-02-14,M,Darshan Nair,GEN,false,false,Dharwad,BSC,1,INS-022,60.00,669507.00,2026-01-17,SCH-06,2026-07-03 21:09:00,false,0.00
+APL-0045,Tejaswini Nair,2005-07-22,F,Hemanth Pillai,GEN,false,false,Belagavi,BCOM,1,INS-013,60.85,571049.00,2026-07-16,SCH-03,2026-07-03 21:11:00,false,0.00
+APL-0046,Sudha Singh,2008-06-28,F,Rahul Nair,GEN,false,false,Ballari,BCOM,1,INS-013,71.17,384493.00,2026-01-18,SCH-01,2026-07-04 10:13:00,false,0.00
+APL-0047,Jagadish Chowdhury,2006-12-27,M,Rohit Yadav,OBC,false,false,Bengaluru Urban,BE,1,INS-023,76.85,439522.00,2026-02-01,SCH-02,2026-07-04 10:38:00,false,0.00
+APL-0048,Rahul Kamath,2006-09-07,M,Harish Joshi,OBC,false,false,Dharwad,DIPLOMA,1,INS-040,93.81,575735.00,2026-05-23,SCH-01,2026-07-04 11:13:00,false,0.00
+APL-0049,Sumanth Pillai,2006-10-10,M,Mohan Reddy,ST,false,false,Hassan,BE,1,INS-037,83.22,330060.00,2026-04-13,SCH-06,2026-07-04 12:19:00,false,0.00
+APL-0050,Varsha Rao,2005-05-12,F,Anil Setty,GEN,false,false,Hassan,BSC,1,INS-007,73.57,43963.00,2026-03-01,SCH-01,2026-07-04 14:29:00,false,0.00
+APL-0051,Abhishek Chowdhury,2008-07-05,M,Vikram Hegde,OBC,false,false,Belagavi,BSC,1,INS-032,79.28,113431.00,2026-02-18,SCH-04,2026-07-04 15:00:00,false,0.00
+APL-0052,Sneha Yadav,2006-10-24,F,Girish Kumar,GEN,false,false,Tumakuru,MBBS,1,INS-018,96.04,96608.00,2026-07-17,SCH-04,2026-07-04 16:08:00,false,0.00
+APL-0053,Ravi Gowda,2007-05-08,M,Sandeep Shetty,GEN,false,true,Kalaburagi,BA,1,INS-013,70.92,48204.00,2026-02-07,SCH-06,2026-07-04 17:29:00,false,0.00
+APL-0054,Arjun Naik,2005-11-20,M,Karthik Sheikh,ST,false,false,Shivamogga,DIPLOMA,1,INS-005,93.26,108896.00,2026-01-26,SCH-04,2026-07-04 17:43:00,false,0.00
+APL-0055,Mohammed Iyer,2007-07-28,M,Sharath Sharma,SC,false,false,Kalaburagi,BSC,1,INS-029,64.00,90000.00,2026-02-17,SCH-02,2026-07-04 18:23:00,false,0.00
+APL-0056,Rohit Singh,2008-11-08,M,Mahesh Prabhu,SC,false,false,Bengaluru Urban,BCOM,1,INS-036,72.42,599464.00,2026-07-01,SCH-04,2026-07-04 20:10:00,false,0.00
+APL-0057,Anitha Patil,2006-12-16,F,Darshan Menon,GEN,false,false,Dakshina Kannada,BCOM,1,INS-008,80.52,74713.00,2026-03-20,SCH-03,2026-07-04 21:08:00,false,0.00
+APL-0058,Prakash Hegde,2005-02-10,M,Ganesh Kumar,OBC,false,false,Dharwad,BA,1,INS-008,64.97,291359.00,2026-02-13,SCH-04,2026-07-04 21:29:00,false,0.00
+APL-0059,Nandini Nair,2006-05-11,F,Naveen Patil,OBC,false,false,Shivamogga,DIPLOMA,1,INS-005,96.04,80862.00,2026-01-28,SCH-01,2026-07-05 09:34:00,false,0.00
+APL-0060,Santosh Kumar,2006-10-26,M,Jagadish Kulkarni,SC,true,false,Hassan,MBBS,1,INS-025,96.13,860628.00,2026-05-27,SCH-04,2026-07-05 09:36:00,false,0.00
+APL-0061,Sowmya Naik,2007-03-14,F,Rahul Kumar,OBC,false,false,Mysuru,BSC,1,INS-022,79.00,110000.00,2026-05-07,SCH-01,2026-07-05 11:00:00,false,0.00
+APL-0062,Imran Reddy,2007-05-16,M,Darshan Chowdhury,ST,false,false,Bengaluru Urban,MBBS,1,INS-025,88.27,666886.00,2026-05-15,SCH-04,2026-07-05 11:00:00,false,0.00
+APL-0063,Lakshmi Menon,2007-11-05,F,Lokesh Shetty,OBC,false,false,Tumakuru,BCOM,1,INS-020,87.83,208916.00,2026-07-09,SCH-02,2026-07-05 11:52:00,false,0.00
+APL-0064,Vikram Gowda,2005-12-13,M,Karthik Jain,OBC,true,true,Belagavi,BSC,1,INS-006,63.97,247997.00,2026-06-05,SCH-05,2026-07-05 14:52:00,false,0.00
+APL-0065,Yashwanth Desai,2006-04-22,M,Nagesh Kulkarni,OBC,false,false,Shivamogga,MBBS,1,INS-025,68.60,736502.00,2026-03-05,SCH-01,2026-07-05 15:20:00,false,0.00
+APL-0066,Madhuri Murthy,2007-12-22,F,Girish Patil,GEN,true,false,Tumakuru,BSC,1,INS-039,86.79,370754.00,2026-01-11,SCH-06,2026-07-05 15:21:00,false,0.00
+APL-0067,Imran Verma,2008-04-13,M,Girish Bhat,SC,false,false,Tumakuru,DIPLOMA,1,INS-012,63.24,634510.00,2026-03-17,SCH-03,2026-07-05 15:53:00,false,0.00
+APL-0068,Sumanth Prabhu,2005-04-06,M,Darshan Reddy,OBC,false,false,Dharwad,BA,1,INS-015,53.57,161800.00,2026-04-03,SCH-05,2026-07-05 16:10:00,false,0.00
+APL-0069,Priya Nair,2008-11-14,F,Naveen Yadav,GEN,false,false,Belagavi,BE,1,INS-021,75.17,93663.00,2026-01-12,SCH-02,2026-07-05 16:29:00,false,0.00
+APL-0070,Chetan Joshi,2008-02-08,M,Raghav Kamath,SC,false,true,Belagavi,BPHARM,1,INS-003,71.40,847469.00,2026-06-26,SCH-03,2026-07-05 18:30:00,false,0.00
+APL-0071,Vikram Pillai,2007-08-11,M,Sumanth Chowdhury,GEN,true,false,Belagavi,DIPLOMA,1,INS-026,74.93,325930.00,2026-05-08,SCH-03,2026-07-05 18:57:00,false,0.00
+APL-0072,Sharath Kulkarni,2006-02-17,M,Venkatesh Desai,GEN,false,false,Shivamogga,BCOM,1,INS-022,61.29,290022.00,2026-03-03,SCH-06,2026-07-06 10:50:00,false,0.00
+APL-0073,Nagesh Kamath,2008-01-08,M,Nikhil Setty,GEN,false,false,Ballari,BSC,1,INS-001,75.57,63738.00,2026-04-05,SCH-06,2026-07-06 10:55:00,false,0.00
+APL-0074,Deepa Agarwal,2005-05-07,F,Mohammed Rao,OBC,false,false,Tumakuru,MBBS,1,INS-025,52.11,55218.00,2026-07-23,SCH-04,2026-07-06 10:58:00,false,0.00
+APL-0075,Yashwanth Gowda,2008-06-18,M,Vikram Sheikh,SC,false,false,Hassan,BSC,1,INS-021,91.10,878171.00,2026-05-17,SCH-05,2026-07-06 10:59:00,false,0.00
+APL-0076,Arjun Desai,2007-09-08,M,Ganesh Naik,GEN,false,false,Mysuru,MBBS,1,INS-039,88.38,371631.00,2026-07-26,SCH-02,2026-07-06 11:12:00,false,0.00
+APL-0077,Deepak Menon,2006-02-06,M,Raghav Shetty,SC,false,false,Dharwad,DIPLOMA,1,INS-005,49.35,198047.00,2026-01-16,SCH-03,2026-07-06 14:24:00,false,0.00
+APL-0078,Girish Yadav,2007-07-18,M,Harish Sharma,GEN,false,false,Belagavi,BSC,1,INS-007,68.40,96185.00,2026-03-28,SCH-01,2026-07-06 14:35:00,false,0.00
+APL-0079,Hemanth Prabhu,2006-08-03,M,Rahul Desai,GEN,false,false,Dakshina Kannada,BCOM,1,INS-022,75.78,163756.00,2026-06-26,SCH-03,2026-07-06 16:35:00,false,0.00
+APL-0080,Sumanth Bhat,2006-07-12,M,Manoj Gowda,SC,false,false,Dakshina Kannada,BSC,1,INS-001,67.00,391864.00,2026-06-20,SCH-01,2026-07-06 16:51:00,false,0.00
+APL-0081,Ganesh Sheikh,2007-06-01,M,Nagesh Acharya,GEN,false,false,Dakshina Kannada,BPHARM,1,INS-031,85.48,322789.00,2026-07-14,SCH-06,2026-07-06 16:58:00,false,0.00
+APL-0082,Keerthi Rao,2006-08-22,F,Chetan Verma,GEN,false,false,Mysuru,BE,1,INS-009,52.18,316222.00,2026-01-06,SCH-06,2026-07-06 18:10:00,false,0.00
+APL-0083,Deepak Kamath,2007-11-24,M,Manoj Yadav,OBC,false,false,Dharwad,BSC,1,INS-034,66.36,360986.00,2026-07-07,SCH-02,2026-07-06 18:18:00,false,0.00
+APL-0084,Manjula Agarwal,2008-02-10,F,Nagesh Sheikh,OBC,false,false,Belagavi,BPHARM,1,INS-010,92.53,299470.00,2026-07-16,SCH-04,2026-07-06 18:58:00,false,0.00
+APL-0085,Kavya Khan,2006-02-23,F,Mohan Murthy,SC,false,false,Dharwad,BPHARM,1,INS-038,59.13,64362.00,2026-07-28,SCH-06,2026-07-06 19:10:00,false,0.00
+APL-0086,Chaitra Chowdhury,2006-03-05,F,Raghav Pillai,OBC,false,false,Bengaluru Urban,DIPLOMA,1,INS-033,66.72,437047.00,2026-04-23,SCH-02,2026-07-06 19:49:00,false,0.00
+APL-0087,Madhuri Pillai,2007-01-07,F,Nagesh Sheikh,OBC,false,false,Ballari,BA,1,INS-022,74.65,310847.00,2026-04-09,SCH-02,2026-07-06 20:26:00,false,0.00
+APL-0088,Darshan Yadav,2008-07-16,M,Imran Pillai,GEN,false,false,Dharwad,MBBS,1,INS-025,58.98,521252.00,2026-04-04,SCH-02,2026-07-06 20:28:00,false,0.00
+APL-0089,Deepa Kamath,2007-04-04,F,Karthik Jain,GEN,false,false,Bengaluru Urban,BPHARM,1,INS-031,81.33,53545.00,2026-01-11,SCH-06,2026-07-06 20:29:00,false,0.00
+APL-0090,Usha Kamath,2008-01-15,F,Arjun Shetty,GEN,true,false,Ballari,BPHARM,1,INS-017,77.37,243836.00,2026-02-25,SCH-03,2026-07-06 20:43:00,false,0.00
+APL-0091,Priya Gowda,2006-12-25,F,Prakash Rao,OBC,false,false,Mysuru,BPHARM,1,INS-038,53.02,614980.00,2026-05-12,SCH-02,2026-07-06 20:48:00,false,0.00
+APL-0092,Vikram Menon,2005-05-12,M,Sharath Rao,GEN,false,false,Dakshina Kannada,BSC,1,INS-035,68.27,235926.00,2026-04-12,SCH-02,2026-07-06 21:10:00,false,0.00
+APL-0093,Ramya Kamath,2007-03-19,F,Basavaraj Acharya,GEN,true,false,Bengaluru Urban,BPHARM,1,INS-010,59.48,605244.00,2026-06-22,SCH-05,2026-07-06 21:16:00,false,0.00
+APL-0094,Pavithra Agarwal,2006-04-16,F,Shivaraj Kumar,SC,false,false,Mysuru,BA,1,INS-027,88.82,430626.00,2026-07-27,SCH-02,2026-07-07 10:25:00,false,0.00
+APL-0095,Arjun Kumar,2007-11-14,M,Sumanth Singh,GEN,false,false,Kalaburagi,BE,1,INS-035,65.57,218510.00,2026-07-17,SCH-02,2026-07-07 10:52:00,false,0.00
+APL-0096,Swathi Shetty,2008-02-07,F,Sumanth Pillai,SC,true,false,Kalaburagi,BE,1,INS-037,62.04,84316.00,2026-06-10,SCH-06,2026-07-07 12:04:00,false,0.00
+APL-0097,Vidya Murthy,2007-12-19,F,Manoj Jain,OBC,false,false,Bengaluru Urban,BA,1,INS-034,92.88,272434.00,2026-02-03,SCH-05,2026-07-07 12:33:00,false,0.00
+APL-0098,Sneha Murthy,2006-02-04,F,Sandeep Bhat,SC,false,false,Ballari,BPHARM,1,INS-031,56.83,822163.00,2026-02-28,SCH-03,2026-07-07 15:25:00,false,0.00
+APL-0099,Rekha Kamath,2006-10-23,F,Tejas Joshi,OBC,false,false,Dharwad,BSC,1,INS-034,57.04,63714.00,2026-07-21,SCH-01,2026-07-07 15:25:00,false,0.00
+APL-0100,Shivaraj Chowdhury,2007-03-10,M,Lokesh Sheikh,OBC,false,false,Ballari,BA,1,INS-029,95.42,70883.00,2026-01-09,SCH-04,2026-07-07 15:38:00,false,0.00
+APL-0101,Mohammed Gowda,2005-04-14,M,Santosh Hegde,OBC,false,false,Dharwad,BA,1,INS-001,78.58,264240.00,2026-04-13,SCH-02,2026-07-07 16:23:00,false,0.00
+APL-0102,Anil Joshi,2006-11-11,M,Yashwanth Verma,SC,false,false,Ballari,BE,1,INS-028,68.82,40762.00,2026-06-12,SCH-02,2026-07-07 16:23:00,false,0.00
+APL-0103,Chaitra Nair,2008-02-06,F,Rajesh Setty,GEN,false,false,Dharwad,BCOM,1,INS-001,60.00,197534.00,2026-01-18,SCH-03,2026-07-07 18:20:00,false,0.00
+APL-0104,Naveen Prabhu,2007-11-04,M,Santosh Verma,GEN,false,false,Mysuru,BSC,1,INS-001,62.55,203783.00,2026-06-17,SCH-02,2026-07-07 19:47:00,false,0.00
+APL-0105,Divya Sheikh,2007-11-07,F,Chetan Nair,ST,false,false,Belagavi,BE,1,INS-002,79.07,469206.00,2026-06-25,SCH-03,2026-07-07 21:09:00,false,0.00
+APL-0106,Rekha Khan,2006-04-16,F,Shivaraj Khan,GEN,false,false,Ballari,BA,1,INS-015,61.99,338175.00,2026-04-02,SCH-06,2026-07-07 21:54:00,false,0.00
+APL-0107,Kiran Sharma,2008-10-18,M,Kiran Singh,OBC,false,false,Dakshina Kannada,BSC,1,INS-015,68.00,90000.00,2026-07-07,SCH-01,2026-07-08 10:39:00,false,0.00
+APL-0108,Pavithra Hegde,2005-12-01,F,Sumanth Sheikh,OBC,false,false,Ballari,BA,1,INS-034,67.73,232682.00,2026-01-15,SCH-06,2026-07-08 11:20:00,false,0.00
+APL-0109,Sowmya Naik,2007-03-14,F,Rahul Kumar,OBC,false,false,Mysuru,BSC,1,INS-022,79.00,110000.00,2026-02-18,SCH-02,2026-07-08 12:00:00,false,0.00
+APL-0110,Manjula Chowdhury,2007-09-02,F,Abhishek Agarwal,OBC,true,false,Belagavi,MBBS,1,INS-018,48.46,51005.00,2026-06-13,SCH-03,2026-07-08 12:13:00,false,0.00
+APL-0111,Deepak Acharya,2007-11-23,M,Karthik Joshi,GEN,false,false,Dakshina Kannada,BA,1,INS-034,69.93,48760.00,2026-01-07,SCH-01,2026-07-08 13:55:00,false,0.00
+APL-0112,Ganesh Sheikh,2005-04-10,M,Vikram Prabhu,GEN,false,false,Dakshina Kannada,BA,1,INS-034,65.93,360474.00,2026-05-27,SCH-05,2026-07-08 14:17:00,false,0.00
+APL-0113,Mahesh Sheikh,2005-09-26,M,Imran Nair,ST,false,false,Hassan,BPHARM,1,INS-010,91.88,456631.00,2026-04-12,SCH-06,2026-07-08 15:16:00,false,0.00
+APL-0114,Deepa Sheikh,2006-09-25,F,Arjun Nair,OBC,false,false,Tumakuru,BSC,1,INS-007,80.00,146844.00,2026-02-11,SCH-01,2026-07-08 16:13:00,false,0.00
+APL-0115,Sandeep Yadav,2006-12-16,M,Vikram Desai,OBC,false,false,Dakshina Kannada,DIPLOMA,1,INS-026,74.13,100720.00,2026-05-27,SCH-02,2026-07-08 18:07:00,false,0.00
+APL-0116,Tejas Singh,2007-05-16,M,Jagadish Desai,GEN,false,false,Mysuru,BA,1,INS-029,48.67,371785.00,2026-05-28,SCH-04,2026-07-08 18:44:00,false,0.00
+APL-0117,Ramya Khan,2006-06-12,F,Rajesh Pillai,OBC,false,false,Dharwad,BCOM,1,INS-006,71.18,145539.00,2026-06-19,SCH-02,2026-07-08 18:46:00,false,0.00
+APL-0118,Shruthi Yadav,2005-04-23,F,Lokesh Prabhu,GEN,false,false,Bengaluru Urban,BA,1,INS-022,65.78,555727.00,2026-07-09,SCH-01,2026-07-08 18:53:00,false,0.00
+APL-0119,Ramya Kumar,2006-05-06,F,Shivaraj Chowdhury,OBC,false,false,Bengaluru Urban,MBBS,1,INS-018,72.35,443436.00,2026-05-10,SCH-04,2026-07-08 20:40:00,false,0.00
+APL-0120,Vidya Agarwal,2008-07-11,F,Harish Rao,OBC,false,false,Tumakuru,BSC,1,INS-007,90.00,136956.00,2026-07-15,SCH-01,2026-07-08 20:58:00,false,0.00
+APL-0121,Kiran Desai,2006-02-13,M,Yashwanth Chowdhury,SC,true,false,Ballari,MBBS,1,INS-025,75.05,595479.00,2026-03-10,SCH-05,2026-07-08 21:53:00,false,0.00
+APL-0122,Hemanth Hegde,2005-11-03,M,Lokesh Rao,ST,false,false,Tumakuru,BE,1,INS-030,62.74,167672.00,2026-02-21,SCH-01,2026-07-09 09:12:00,false,0.00
+APL-0123,Sowmya Acharya,2008-08-02,F,Tejas Sharma,SC,false,false,Kalaburagi,BA,1,INS-001,86.87,587168.00,2026-03-28,SCH-06,2026-07-09 09:13:00,false,0.00
+APL-0124,Yashwanth Patil,2007-09-04,M,Hemanth Naik,OBC,true,false,Belagavi,BPHARM,1,INS-038,53.41,530738.00,2026-01-11,SCH-04,2026-07-09 09:21:00,false,0.00
+APL-0125,Harish Rao,2006-06-27,M,Santosh Iyer,GEN,false,true,Mysuru,BA,1,INS-006,64.32,212403.00,2026-06-26,SCH-04,2026-07-09 11:20:00,false,0.00
+APL-0126,Shivaraj Shetty,2007-02-11,M,Venkatesh Murthy,OBC,false,false,Tumakuru,BSC,1,INS-007,87.50,83445.00,2026-07-15,SCH-01,2026-07-09 11:34:00,false,0.00
+APL-0127,Tejaswini Khan,2007-02-18,F,Ganesh Agarwal,SC,true,false,Shivamogga,BSC,1,INS-018,75.09,157450.00,2026-06-07,SCH-01,2026-07-09 11:34:00,false,0.00
+APL-0128,Jagadish Jain,2006-08-26,M,Mohan Menon,OBC,true,false,Tumakuru,BPHARM,1,INS-038,65.62,351570.00,2026-03-22,SCH-02,2026-07-09 11:48:00,false,0.00
+APL-0129,Lakshmi Kamath,2005-03-25,F,Venkatesh Iyer,GEN,false,false,Mysuru,BPHARM,1,INS-024,75.14,34633.00,2026-07-04,SCH-03,2026-07-09 12:06:00,false,0.00
+APL-0130,Fathima Kulkarni,2006-09-08,F,Karthik Verma,SC,false,false,Shivamogga,MBBS,1,INS-004,56.54,116427.00,2026-01-13,SCH-03,2026-07-09 12:37:00,false,0.00
+APL-0131,Pooja Singh,2007-02-09,F,Sharath Prabhu,OBC,true,false,Dharwad,BA,1,INS-034,78.98,179739.00,2026-05-28,SCH-01,2026-07-09 13:10:00,false,0.00
+APL-0132,Deepak Setty,2005-11-26,M,Shivaraj Singh,GEN,false,false,Bengaluru Urban,BE,1,INS-028,57.13,476838.00,2026-06-26,SCH-02,2026-07-09 13:13:00,false,0.00
+APL-0133,Mahesh Desai,2006-12-06,M,Suresh Nair,GEN,false,false,Shivamogga,BCOM,1,INS-008,62.08,81325.00,2026-06-06,SCH-04,2026-07-09 13:19:00,false,0.00
+APL-0134,Jagadish Verma,2006-06-27,M,Mohammed Agarwal,OBC,false,false,Dharwad,MBBS,1,INS-018,82.71,449515.00,2026-02-11,SCH-05,2026-07-09 13:53:00,false,0.00
+APL-0135,Kiran Khan,2007-05-17,M,Shivaraj Sharma,SC,true,false,Kalaburagi,BCOM,1,INS-006,89.11,145816.00,2026-02-06,SCH-06,2026-07-09 14:56:00,false,0.00
+APL-0136,Prakash Menon,2006-12-25,M,Santosh Sheikh,GEN,false,false,Belagavi,BA,1,INS-020,53.74,195756.00,2026-01-28,SCH-01,2026-07-09 15:15:00,false,0.00
+APL-0137,Chetan Acharya,2007-03-01,M,Darshan Setty,OBC,false,false,Dharwad,BA,1,INS-006,76.32,618048.00,2026-02-17,SCH-03,2026-07-09 16:25:00,false,0.00
+APL-0138,Pallavi Chowdhury,2008-05-26,F,Santosh Iyer,GEN,false,false,Belagavi,BSC,1,INS-014,66.87,72822.00,2026-01-01,SCH-01,2026-07-09 17:30:00,false,0.00
+APL-0139,Hemanth Iyer,2008-02-20,M,Anil Sharma,GEN,false,false,Ballari,BA,1,INS-006,96.93,663189.00,2026-03-28,SCH-02,2026-07-09 18:06:00,false,0.00
+APL-0140,Ananya Gowda,2006-11-25,F,Sharath Jain,OBC,false,false,Ballari,BA,1,INS-006,91.46,369594.00,2026-05-15,SCH-03,2026-07-09 18:15:00,false,0.00
+APL-0141,Abhishek Joshi,2006-06-01,M,Vikram Gowda,GEN,true,false,Ballari,BSC,1,INS-013,83.20,61888.00,2026-03-11,SCH-02,2026-07-09 19:06:00,false,0.00
+APL-0142,Nikhil Gowda,2006-08-08,M,Suresh Agarwal,OBC,false,false,Mysuru,BPHARM,1,INS-024,77.23,49365.00,2026-01-04,SCH-06,2026-07-09 19:18:00,false,0.00
+APL-0143,Usha Setty,2008-02-02,F,Mohan Gowda,OBC,false,false,Bengaluru Urban,DIPLOMA,1,INS-019,79.66,287626.00,2026-03-07,SCH-06,2026-07-09 19:48:00,false,0.00
+APL-0144,Varsha Kulkarni,2005-04-20,F,Rajesh Kulkarni,OBC,false,false,Shivamogga,BE,1,INS-016,61.95,455634.00,2026-01-11,SCH-04,2026-07-09 20:14:00,false,0.00
+APL-0145,Sandeep Menon,2007-07-13,M,Sharath Yadav,SC,false,false,Bengaluru Urban,BA,1,INS-034,50.24,181532.00,2026-02-19,SCH-04,2026-07-09 20:32:00,false,0.00
+APL-0146,Mahesh Acharya,2008-12-05,M,Sandeep Nair,GEN,true,true,Shivamogga,BE,1,INS-028,71.33,315869.00,2026-04-17,SCH-04,2026-07-09 21:32:00,false,0.00
+APL-0147,Santosh Singh,2006-03-26,M,Raghav Reddy,SC,false,false,Belagavi,BSC,1,INS-032,70.00,95000.00,2025-07-10,SCH-02,2026-07-10 11:08:00,false,0.00
+APL-0148,Harish Iyer,2008-08-19,M,Sandeep Naik,GEN,false,false,Shivamogga,MBBS,1,INS-025,59.85,59911.00,2026-01-13,SCH-01,2026-07-10 11:08:00,false,0.00
+APL-0149,Nikhil Reddy,2005-07-01,M,Sandeep Chowdhury,ST,false,false,Dakshina Kannada,BA,1,INS-008,84.74,50974.00,2026-05-11,SCH-06,2026-07-10 11:17:00,false,0.00
+APL-0150,Nagesh Khan,2007-11-27,M,Girish Agarwal,GEN,false,false,Dharwad,BE,1,INS-014,81.00,160000.00,2025-07-15,SCH-02,2026-07-10 11:30:00,false,0.00
+APL-0151,Deepak Murthy,2008-01-18,M,Karthik Joshi,GEN,false,false,Shivamogga,BPHARM,1,INS-017,50.67,39491.00,2026-05-08,SCH-01,2026-07-10 11:33:00,false,0.00
+APL-0152,Lokesh Jain,2007-12-25,M,Mohan Acharya,GEN,false,false,Bengaluru Urban,MBBS,1,INS-011,55.29,272026.00,2026-05-07,SCH-06,2026-07-10 12:02:00,false,0.00
+APL-0153,Sudha Gowda,2006-10-18,F,Suresh Kumar,ST,false,false,Mysuru,MBBS,1,INS-025,60.92,194191.00,2026-02-04,SCH-04,2026-07-10 13:39:00,false,0.00
+APL-0154,Pallavi Gowda,2007-01-18,F,Deepak Reddy,GEN,false,false,Bengaluru Urban,BCOM,1,INS-001,62.20,578531.00,2026-04-12,SCH-04,2026-07-10 13:47:00,false,0.00
+APL-0155,Karthik Gowda,2007-05-14,M,Prakash Gowda,OBC,false,false,Dharwad,BPHARM,1,INS-038,69.95,85691.00,2026-06-18,SCH-03,2026-07-10 14:34:00,false,0.00
+APL-0156,Vikram Setty,2005-09-01,M,Rohit Chowdhury,SC,false,false,Dakshina Kannada,BCOM,1,INS-001,51.18,43624.00,2026-01-08,SCH-06,2026-07-10 15:33:00,false,0.00
+APL-0157,Pallavi Sheikh,2005-01-17,F,Mohan Patil,OBC,true,false,Kalaburagi,MBBS,1,INS-032,76.01,413565.00,2026-03-19,SCH-01,2026-07-10 15:42:00,false,0.00
+APL-0158,Kiran Pillai,2005-05-13,M,Darshan Desai,OBC,true,false,Mysuru,BSC,1,INS-001,68.17,624473.00,2026-05-12,SCH-02,2026-07-10 15:48:00,false,0.00
+APL-0159,Swathi Singh,2007-01-05,F,Rohit Kumar,GEN,false,false,Dakshina Kannada,DIPLOMA,1,INS-026,93.97,85434.00,2026-06-20,SCH-01,2026-07-10 16:03:00,false,0.00
+APL-0160,Fathima Khan,2006-12-24,F,Hemanth Shetty,GEN,false,false,Bengaluru Urban,BE,1,INS-002,60.82,886871.00,2026-01-13,SCH-02,2026-07-10 17:55:00,false,0.00
+APL-0161,Geetha Nair,2007-09-16,F,Tejas Patil,OBC,false,true,Tumakuru,MBBS,1,INS-018,92.53,190983.00,2026-03-22,SCH-05,2026-07-10 18:03:00,false,0.00
+APL-0162,Harish Setty,2008-11-21,M,Venkatesh Singh,OBC,false,false,Hassan,BE,1,INS-007,83.37,346939.00,2026-05-10,SCH-04,2026-07-10 19:03:00,false,0.00
+APL-0163,Ayesha Naik,2005-04-04,F,Rahul Reddy,OBC,false,false,Ballari,BPHARM,1,INS-017,50.48,35883.00,2026-03-08,SCH-04,2026-07-10 21:02:00,false,0.00
+APL-0164,Nikhil Khan,2007-03-05,M,Sumanth Patil,OBC,true,false,Bengaluru Urban,BCOM,1,INS-022,96.23,428657.00,2026-03-20,SCH-03,2026-07-10 21:07:00,false,0.00
+APL-0165,Ramya Kulkarni,2006-01-28,F,Mahesh Pillai,GEN,true,false,Belagavi,BA,1,INS-001,82.07,332378.00,2026-03-05,SCH-04,2026-07-10 21:07:00,false,0.00
+APL-0166,Vidya Kamath,2007-05-11,F,Chetan Yadav,GEN,false,false,Dakshina Kannada,MBBS,1,INS-032,85.32,216716.00,2026-03-05,SCH-04,2026-07-10 21:43:00,false,0.00
+APL-0167,Sharath Sharma,2005-02-19,M,Rajesh Desai,GEN,false,false,Shivamogga,BA,1,INS-001,50.80,564571.00,2026-07-22,SCH-05,2026-07-10 21:54:00,false,0.00
+APL-0168,Divya Sheikh,2007-11-24,F,Jagadish Kulkarni,OBC,false,false,Bengaluru Urban,BA,1,INS-015,69.64,696105.00,2026-04-18,SCH-04,2026-07-11 09:27:00,false,0.00
+APL-0169,Imran Yadav,2006-02-26,M,Hemanth Nair,GEN,false,false,Ballari,MBBS,1,INS-018,83.27,312549.00,2026-06-18,SCH-06,2026-07-11 10:06:00,false,0.00
+APL-0170,Imran Rao,2006-05-26,M,Karthik Bhat,OBC,false,false,Tumakuru,BCOM,1,INS-008,48.42,344441.00,2026-07-24,SCH-01,2026-07-11 10:42:00,false,0.00
+APL-0171,Naveen Acharya,2006-12-12,M,Sharath Gowda,OBC,false,false,Mysuru,DIPLOMA,1,INS-040,94.78,123144.00,2026-03-18,SCH-05,2026-07-11 10:43:00,false,0.00
+APL-0172,Shivaraj Chowdhury,2007-07-19,M,Sumanth Patil,SC,false,false,Belagavi,MBBS,1,INS-025,74.64,62373.00,2026-01-09,SCH-01,2026-07-11 10:43:00,false,0.00
+APL-0173,Prakash Nair,2007-11-26,M,Ravi Iyer,OBC,false,false,Bengaluru Urban,BCOM,1,INS-036,92.76,865610.00,2026-06-24,SCH-01,2026-07-11 12:11:00,false,0.00
+APL-0174,Harini Nair,2005-02-12,F,Nagesh Rao,OBC,false,false,Kalaburagi,BA,1,INS-022,62.45,440245.00,2026-04-09,SCH-06,2026-07-11 12:23:00,false,0.00
+APL-0175,Manjula Kamath,2006-02-02,F,Deepak Desai,GEN,false,true,Hassan,BPHARM,1,INS-010,78.75,51528.00,2026-03-19,SCH-05,2026-07-11 12:56:00,false,0.00
+APL-0176,Jyothi Acharya,2006-05-14,F,Tejas Acharya,ST,false,false,Dharwad,BSC,1,INS-006,48.33,373474.00,2026-02-08,SCH-06,2026-07-11 13:20:00,false,0.00
+APL-0177,Basavaraj Pillai,2006-03-06,M,Pradeep Rao,GEN,false,false,Dharwad,BA,1,INS-015,52.96,323122.00,2026-07-23,SCH-04,2026-07-11 13:48:00,false,0.00
+APL-0178,Shruthi Joshi,2005-09-17,F,Rohit Sheikh,SC,false,false,Ballari,BE,1,INS-021,88.12,33832.00,2026-02-03,SCH-04,2026-07-11 16:01:00,false,0.00
+APL-0179,Anitha Gowda,2006-10-19,F,Ganesh Acharya,SC,false,false,Bengaluru Urban,BSC,1,INS-021,53.13,390690.00,2026-03-23,SCH-04,2026-07-11 19:48:00,false,0.00
+APL-0180,Varsha Setty,2008-11-10,F,Naveen Kulkarni,OBC,false,false,Tumakuru,MBBS,1,INS-039,77.63,69259.00,2026-05-20,SCH-01,2026-07-11 21:01:00,false,0.00
+APL-0181,Vidya Agarwal,2008-02-16,F,Chetan Singh,SC,false,false,Dakshina Kannada,DIPLOMA,1,INS-005,78.39,55443.00,2026-06-03,SCH-05,2026-07-11 21:54:00,false,0.00
+APL-0182,Nandini Prabhu,2008-11-04,F,Deepak Rao,SC,false,false,Dharwad,MBBS,1,INS-018,63.77,788097.00,2026-05-22,SCH-03,2026-07-12 10:03:00,false,0.00
+APL-0183,Sowmya Setty,2008-10-07,F,Naveen Murthy,OBC,false,false,Mysuru,BA,1,INS-001,60.38,358817.00,2026-01-13,SCH-06,2026-07-12 10:40:00,false,0.00
+APL-0184,Girish Chowdhury,2008-01-22,M,Suresh Kumar,ST,false,true,Dakshina Kannada,BE,1,INS-009,63.15,116347.00,2026-06-26,SCH-01,2026-07-12 10:56:00,false,0.00
+APL-0185,Prakash Joshi,2008-10-06,M,Kiran Hegde,GEN,false,false,Shivamogga,BPHARM,1,INS-024,90.08,786769.00,2026-04-05,SCH-06,2026-07-12 11:04:00,false,0.00
+APL-0186,Sandeep Khan,2008-10-23,M,Deepak Rao,OBC,false,false,Bengaluru Urban,BE,1,INS-007,87.89,132749.00,2026-04-15,SCH-03,2026-07-12 11:32:00,false,0.00
+APL-0187,Geetha Sharma,2008-07-06,F,Deepak Kumar,GEN,false,false,Belagavi,BA,1,INS-022,83.07,454789.00,2026-03-06,SCH-05,2026-07-12 11:49:00,false,0.00
+APL-0188,Geetha Singh,2006-10-18,F,Kiran Menon,GEN,false,false,Hassan,BPHARM,1,INS-010,52.47,54985.00,2026-06-08,SCH-04,2026-07-12 11:55:00,false,0.00
+APL-0189,Imran Prabhu,2008-06-20,M,Karthik Bhat,OBC,false,false,Bengaluru Urban,BCOM,1,INS-029,49.72,141423.00,2026-07-03,SCH-06,2026-07-12 11:56:00,false,0.00
+APL-0190,Harini Joshi,2008-09-08,F,Kiran Setty,GEN,true,false,Tumakuru,BSC,1,INS-039,77.86,64817.00,2026-01-24,SCH-03,2026-07-12 12:56:00,false,0.00
+APL-0191,Sahana Shetty,2007-10-14,F,Sharath Kamath,OBC,false,false,Tumakuru,BE,1,INS-037,61.77,41189.00,2026-01-01,SCH-06,2026-07-12 13:26:00,false,0.00
+APL-0192,Sudha Khan,2007-10-19,F,Sharath Kulkarni,SC,true,false,Ballari,MBBS,1,INS-025,74.51,627666.00,2026-04-01,SCH-06,2026-07-12 14:48:00,false,0.00
+APL-0193,Girish Acharya,2006-10-26,M,Anil Sharma,GEN,false,false,Belagavi,BCOM,1,INS-001,67.25,248486.00,2026-03-06,SCH-06,2026-07-12 15:11:00,false,0.00
+APL-0194,Rekha Rao,2008-02-26,F,Jagadish Chowdhury,OBC,false,false,Tumakuru,BA,1,INS-034,63.05,71820.00,2026-03-12,SCH-02,2026-07-12 15:15:00,false,0.00
+APL-0195,Rohit Desai,2006-01-22,M,Ganesh Bhat,ST,false,false,Dharwad,BCOM,1,INS-001,63.08,405189.00,2026-04-01,SCH-03,2026-07-12 16:45:00,false,0.00
+APL-0196,Sneha Sheikh,2005-03-25,F,Arjun Sharma,GEN,false,false,Shivamogga,BA,1,INS-036,94.13,89454.00,2026-02-28,SCH-06,2026-07-12 17:06:00,false,0.00
+APL-0197,Santosh Reddy,2007-07-26,M,Chetan Murthy,OBC,false,false,Dharwad,BE,1,INS-007,64.21,550830.00,2026-01-08,SCH-04,2026-07-12 17:29:00,false,0.00
+APL-0198,Prakash Setty,2007-09-10,M,Karthik Gowda,OBC,false,false,Hassan,BA,1,INS-022,95.67,262422.00,2026-04-13,SCH-06,2026-07-12 19:07:00,false,0.00
+APL-0199,Imran Iyer,2007-11-09,M,Nagesh Bhat,OBC,false,false,Bengaluru Urban,BA,1,INS-027,89.16,46123.00,2026-05-25,SCH-02,2026-07-12 20:37:00,false,0.00
+APL-0200,Mohan Yadav,2006-10-03,M,Yashwanth Naik,OBC,false,false,Shivamogga,BPHARM,1,INS-031,56.37,180335.00,2026-04-23,SCH-03,2026-07-12 20:53:00,false,0.00
+APL-0201,Anitha Singh,2005-11-07,F,Sharath Sheikh,OBC,false,false,Tumakuru,MBBS,1,INS-032,51.56,131112.00,2026-04-28,SCH-03,2026-07-12 21:42:00,false,0.00
+APL-0202,Harini Rao,2005-04-05,F,Girish Khan,ST,false,false,Ballari,DIPLOMA,1,INS-019,56.16,689126.00,2026-06-20,SCH-05,2026-07-13 09:17:00,false,0.00
+APL-0203,Mohan Kulkarni,2006-08-16,M,Pradeep Agarwal,SC,false,false,Mysuru,DIPLOMA,1,INS-019,56.05,519199.00,2026-07-05,SCH-04,2026-07-13 10:05:00,false,0.00
+APL-0204,Manjula Sheikh,2008-08-08,F,Mohammed Jain,ST,false,false,Dakshina Kannada,BCOM,1,INS-006,93.37,73109.00,2026-03-11,SCH-01,2026-07-13 12:06:00,false,0.00
+APL-0205,Pooja Kulkarni,2006-08-21,F,Manoj Rao,OBC,false,false,Kalaburagi,MBBS,1,INS-025,59.74,416573.00,2026-03-03,SCH-01,2026-07-13 12:32:00,false,0.00
+APL-0206,Manoj Sheikh,2008-11-22,M,Mohan Shetty,GEN,false,false,Shivamogga,BPHARM,1,INS-017,73.42,98382.00,2026-05-01,SCH-06,2026-07-13 12:43:00,false,0.00
+APL-0207,Shilpa Kamath,2005-06-24,F,Harish Patil,GEN,true,false,Bengaluru Urban,BPHARM,1,INS-003,68.45,352576.00,2026-06-18,SCH-04,2026-07-13 13:13:00,false,0.00
+APL-0208,Sudha Nair,2008-06-05,F,Girish Naik,ST,false,false,Shivamogga,DIPLOMA,1,INS-019,76.85,781795.00,2026-05-10,SCH-03,2026-07-13 14:42:00,false,0.00
+APL-0209,Mary Kulkarni,2008-08-14,F,Lokesh Gowda,SC,false,false,Bengaluru Urban,BA,1,INS-027,91.19,125326.00,2026-01-06,SCH-04,2026-07-13 16:40:00,false,0.00
+APL-0210,Naveen Gowda,2007-10-27,M,Imran Prabhu,GEN,false,false,Kalaburagi,BE,1,INS-016,71.75,213988.00,2026-02-01,SCH-05,2026-07-13 18:56:00,false,0.00
+APL-0211,Nagesh Patil,2008-05-05,M,Prakash Nair,ST,true,false,Ballari,MBBS,1,INS-004,59.67,71065.00,2026-07-18,SCH-01,2026-07-13 18:59:00,false,0.00
+APL-0212,Anitha Reddy,2007-03-10,F,Naveen Hegde,OBC,false,false,Mysuru,BA,1,INS-006,82.34,70229.00,2026-06-25,SCH-03,2026-07-13 20:09:00,false,0.00
+APL-0213,Nagesh Prabhu,2008-09-11,M,Girish Naik,OBC,false,false,Bengaluru Urban,BSC,1,INS-001,82.70,213090.00,2026-01-12,SCH-01,2026-07-13 20:49:00,false,0.00
+APL-0214,Arjun Sheikh,2007-07-26,M,Abhishek Verma,ST,false,false,Belagavi,BSC,1,INS-001,60.78,213901.00,2026-01-16,SCH-05,2026-07-13 20:58:00,false,0.00
+APL-0215,Girish Chowdhury,2006-06-22,M,Venkatesh Desai,ST,false,false,Kalaburagi,BSC,1,INS-015,92.42,422124.00,2026-01-18,SCH-06,2026-07-13 21:02:00,false,0.00
+APL-0216,Imran Singh,2008-11-05,M,Sumanth Joshi,OBC,false,false,Shivamogga,DIPLOMA,1,INS-033,52.68,437240.00,2026-04-06,SCH-01,2026-07-13 21:09:00,false,0.00
+APL-0217,Sumanth Setty,2007-07-10,M,Rohit Reddy,GEN,false,true,Belagavi,BCOM,1,INS-027,92.33,151705.00,2026-06-23,SCH-01,2026-07-14 09:18:00,false,0.00
+APL-0218,Anitha Jain,2005-01-21,F,Yashwanth Hegde,ST,false,false,Dakshina Kannada,BSC,1,INS-035,92.75,690578.00,2026-02-10,SCH-01,2026-07-14 09:48:00,false,0.00
+APL-0219,Vidya Kumar,2007-07-20,F,Imran Joshi,OBC,false,false,Kalaburagi,BPHARM,1,INS-038,70.07,38712.00,2026-02-24,SCH-05,2026-07-14 10:06:00,false,0.00
+APL-0220,Keerthi Naik,2008-03-05,F,Naveen Hegde,OBC,true,false,Dakshina Kannada,DIPLOMA,1,INS-012,65.73,844217.00,2026-01-28,SCH-04,2026-07-14 10:10:00,false,0.00
+APL-0221,Nandini Bhat,2006-07-08,F,Raghav Sheikh,GEN,false,false,Kalaburagi,BA,1,INS-006,76.05,374097.00,2026-03-28,SCH-06,2026-07-14 10:29:00,false,0.00
+APL-0222,Geetha Hegde,2006-05-17,F,Sumanth Yadav,OBC,false,false,Hassan,BA,1,INS-015,52.99,180834.00,2026-04-21,SCH-01,2026-07-14 10:38:00,false,0.00
+APL-0223,Lokesh Yadav,2008-09-01,M,Imran Iyer,OBC,false,false,Hassan,MBBS,1,INS-018,75.00,80000.00,2026-06-24,SCH-02,2026-07-14 11:57:00,false,0.00
+APL-0224,Anitha Verma,2007-06-26,F,Rahul Murthy,SC,true,false,Tumakuru,MBBS,1,INS-039,82.42,116616.00,2026-02-12,SCH-06,2026-07-14 12:53:00,false,0.00
+APL-0225,Manjula Jain,2006-10-14,F,Vikram Shetty,GEN,false,false,Bengaluru Urban,BCOM,1,INS-022,69.40,341818.00,2026-02-05,SCH-02,2026-07-14 12:58:00,false,0.00
+APL-0226,Prakash Murthy,2005-04-16,M,Vikram Patil,GEN,false,false,Belagavi,MBBS,1,INS-018,87.15,596694.00,2026-03-13,SCH-05,2026-07-14 13:06:00,false,0.00
+APL-0227,Mohammed Patil,2005-12-03,M,Naveen Acharya,SC,false,false,Dharwad,BE,1,INS-023,83.31,34822.00,2026-07-25,SCH-03,2026-07-14 14:35:00,false,0.00
+APL-0228,Prakash Acharya,2006-06-22,M,Imran Prabhu,GEN,false,false,Dakshina Kannada,DIPLOMA,1,INS-012,56.10,83662.00,2026-04-02,SCH-02,2026-07-14 15:47:00,false,0.00
+APL-0229,Divya Reddy,2006-09-14,F,Venkatesh Setty,GEN,false,false,Ballari,MBBS,1,INS-025,86.05,72963.00,2026-02-04,SCH-06,2026-07-14 16:15:00,false,0.00
+APL-0230,Shivaraj Prabhu,2006-07-22,M,Imran Khan,GEN,false,false,Kalaburagi,DIPLOMA,1,INS-040,83.83,435183.00,2026-04-15,SCH-05,2026-07-14 16:25:00,false,0.00
+APL-0231,Jyothi Yadav,2005-03-07,F,Ravi Bhat,SC,false,false,Dharwad,BPHARM,1,INS-038,48.65,404212.00,2026-02-05,SCH-03,2026-07-14 17:10:00,false,0.00
+APL-0232,Rohit Patil,2007-11-05,M,Arjun Kulkarni,GEN,false,false,Dharwad,BPHARM,1,INS-024,67.14,219484.00,2026-06-23,SCH-01,2026-07-14 17:25:00,false,0.00
+APL-0233,Ananya Khan,2007-07-11,F,Girish Kamath,SC,false,false,Dharwad,MBBS,1,INS-025,50.21,839917.00,2026-01-17,SCH-02,2026-07-14 19:36:00,false,0.00
+APL-0234,Ishita Verma,2006-01-18,F,Ravi Sheikh,SC,false,false,Kalaburagi,BCOM,1,INS-020,52.07,555592.00,2026-03-26,SCH-05,2026-07-14 20:02:00,false,0.00
+APL-0235,Raghav Prabhu,2008-10-28,M,Sharath Hegde,GEN,false,false,Kalaburagi,MBBS,1,INS-018,73.85,395626.00,2026-05-15,SCH-03,2026-07-14 20:54:00,false,0.00
+APL-0236,Arjun Desai,2007-12-04,M,Pradeep Khan,SC,false,false,Mysuru,BE,1,INS-016,51.29,521985.00,2026-02-01,SCH-05,2026-07-15 09:48:00,false,0.00
+APL-0237,Vidya Hegde,2005-06-25,F,Karthik Menon,OBC,false,false,Shivamogga,BSC,1,INS-006,76.17,858776.00,2026-02-10,SCH-06,2026-07-15 10:00:00,false,0.00
+APL-0238,Bhavana Gowda,2006-01-27,F,Yashwanth Jain,OBC,false,false,Tumakuru,DIPLOMA,1,INS-019,83.44,676830.00,2026-04-08,SCH-01,2026-07-15 10:01:00,false,0.00
+APL-0239,Lakshmi Nair,2005-03-04,F,Prakash Agarwal,GEN,false,false,Hassan,BE,1,INS-037,54.77,464129.00,2026-06-24,SCH-01,2026-07-15 10:41:00,false,0.00
+APL-0240,Rekha Gowda,2007-09-15,F,Manoj Pillai,OBC,false,false,Dakshina Kannada,BA,1,INS-008,67.95,66497.00,2026-01-19,SCH-01,2026-07-15 11:53:00,false,0.00
+APL-0241,Shivaraj Menon,2006-05-17,M,Kiran Chowdhury,SC,false,false,Dharwad,BA,1,INS-022,87.13,284476.00,2026-02-02,SCH-02,2026-07-15 13:41:00,false,0.00
+APL-0242,Chaitra Kamath,2006-03-02,F,Basavaraj Joshi,GEN,false,false,Mysuru,BE,1,INS-023,73.90,860097.00,2026-02-24,SCH-02,2026-07-15 13:59:00,false,0.00
+APL-0243,Harish Sharma,2007-11-04,M,Naveen Pillai,OBC,false,false,Mysuru,BPHARM,1,INS-010,90.28,54644.00,2026-04-24,SCH-04,2026-07-15 14:47:00,false,0.00
+APL-0244,Nandini Agarwal,2008-11-22,F,Mahesh Murthy,ST,false,false,Dharwad,DIPLOMA,1,INS-040,72.15,835864.00,2026-02-19,SCH-04,2026-07-15 14:49:00,false,0.00
+APL-0245,Divya Setty,2006-02-20,F,Rajesh Gowda,GEN,true,false,Ballari,BA,1,INS-020,82.12,87518.00,2026-05-08,SCH-03,2026-07-15 15:34:00,false,0.00
+APL-0246,Venkatesh Kamath,2007-09-07,M,Imran Reddy,OBC,false,false,Belagavi,BE,1,INS-014,93.68,274835.00,2026-04-17,SCH-02,2026-07-15 17:43:00,false,0.00
+APL-0247,Sneha Joshi,2005-07-16,F,Lokesh Acharya,SC,true,false,Kalaburagi,BA,1,INS-013,63.51,90796.00,2026-02-09,SCH-01,2026-07-15 19:43:00,false,0.00
+APL-0248,Vikram Rao,2006-01-21,M,Mohan Agarwal,OBC,false,false,Belagavi,BE,1,INS-037,63.22,226353.00,2026-07-02,SCH-01,2026-07-15 21:41:00,false,0.00
+APL-0249,Suresh Naik,2005-10-11,M,Girish Acharya,SC,false,false,Tumakuru,BPHARM,1,INS-024,64.16,300348.00,2026-06-06,SCH-02,2026-07-15 21:56:00,false,0.00
+APL-0250,Divya Hegde,2005-06-08,F,Rajesh Kulkarni,GEN,true,false,Shivamogga,MBBS,1,INS-025,82.71,460280.00,2026-03-08,SCH-01,2026-07-16 09:48:00,false,0.00
+APL-0251,Pallavi Reddy,2006-01-22,F,Sandeep Verma,OBC,false,true,Ballari,BA,1,INS-029,78.68,207433.00,2026-06-23,SCH-05,2026-07-16 10:07:00,false,0.00
+APL-0252,Manoj Yadav,2005-10-15,M,Rajesh Kumar,GEN,false,false,Dharwad,BE,1,INS-023,93.44,373436.00,2026-01-13,SCH-01,2026-07-16 10:35:00,false,0.00
+APL-0253,Hemanth Chowdhury,2007-02-12,M,Imran Rao,OBC,false,false,Bengaluru Urban,BA,1,INS-036,67.00,70000.00,2026-01-11,SCH-02,2026-07-16 10:55:00,false,0.00
+APL-0254,Ganesh Murthy,2005-06-21,M,Tejas Menon,GEN,false,false,Mysuru,BCOM,1,INS-029,64.57,706572.00,2026-07-09,SCH-02,2026-07-16 11:09:00,false,0.00
+APL-0255,Lokesh Shetty,2007-07-21,M,Ravi Sheikh,SC,false,false,Dharwad,BSC,1,INS-028,84.23,495483.00,2026-04-23,SCH-03,2026-07-16 11:54:00,false,0.00
+APL-0256,Kiran Singh,2008-02-15,M,Anil Rao,OBC,false,false,Belagavi,BE,1,INS-021,89.62,699993.00,2026-07-02,SCH-05,2026-07-16 12:42:00,false,0.00
+APL-0257,Manjula Yadav,2007-10-12,F,Ganesh Nair,GEN,false,false,Tumakuru,BCOM,1,INS-001,94.71,665417.00,2026-01-28,SCH-01,2026-07-16 12:48:00,false,0.00
+APL-0258,Usha Shetty,2008-10-03,F,Abhishek Agarwal,OBC,false,false,Kalaburagi,MBBS,1,INS-004,64.57,243455.00,2026-07-09,SCH-06,2026-07-16 13:01:00,false,0.00
+APL-0259,Pavithra Reddy,2007-08-23,F,Lokesh Prabhu,SC,false,false,Kalaburagi,BPHARM,1,INS-017,74.06,58406.00,2026-03-11,SCH-03,2026-07-16 13:10:00,false,0.00
+APL-0260,Karthik Desai,2008-02-09,M,Rajesh Pillai,OBC,false,true,Dharwad,BA,1,INS-015,77.95,540474.00,2026-01-06,SCH-06,2026-07-16 16:24:00,false,0.00
+APL-0261,Santosh Gowda,2005-04-09,M,Arjun Hegde,SC,false,false,Bengaluru Urban,MBBS,1,INS-025,69.19,835292.00,2026-01-21,SCH-04,2026-07-16 16:32:00,false,0.00
+APL-0262,Rahul Khan,2008-06-22,M,Imran Menon,GEN,false,false,Belagavi,BE,1,INS-002,81.68,130968.00,2026-03-04,SCH-01,2026-07-16 16:36:00,false,0.00
+APL-0263,Sneha Joshi,2008-12-23,F,Sumanth Chowdhury,SC,true,false,Kalaburagi,BE,1,INS-009,64.97,576391.00,2026-05-19,SCH-06,2026-07-16 17:06:00,false,0.00
+APL-0264,Ananya Jain,2006-07-12,F,Arjun Nair,SC,false,false,Mysuru,BPHARM,1,INS-024,86.97,392090.00,2026-06-18,SCH-01,2026-07-16 17:10:00,false,0.00
+APL-0265,Ishita Kulkarni,2007-11-06,F,Mohammed Gowda,OBC,false,false,Mysuru,DIPLOMA,1,INS-040,57.40,410811.00,2026-06-22,SCH-06,2026-07-16 18:16:00,false,0.00
+APL-0266,Pradeep Iyer,2008-01-16,M,Sandeep Singh,GEN,false,false,Kalaburagi,BA,1,INS-029,64.00,90000.00,2026-01-19,SCH-02,2026-07-16 18:24:00,false,0.00
+APL-0267,Yamini Naik,2005-07-28,F,Pradeep Prabhu,ST,false,false,Tumakuru,BPHARM,1,INS-010,77.54,878074.00,2026-06-22,SCH-06,2026-07-16 18:37:00,false,0.00
+APL-0268,Meena Nair,2007-12-26,F,Manoj Kulkarni,SC,true,false,Mysuru,DIPLOMA,1,INS-033,93.33,219490.00,2026-01-26,SCH-03,2026-07-16 18:40:00,false,0.00
+APL-0269,Chetan Joshi,2008-08-05,M,Basavaraj Setty,OBC,false,false,Hassan,BE,1,INS-021,65.80,259922.00,2026-06-16,SCH-04,2026-07-16 18:54:00,false,0.00
+APL-0270,Chaitra Prabhu,2005-03-12,F,Girish Prabhu,SC,false,false,Tumakuru,MBBS,1,INS-011,92.03,282579.00,2026-07-16,SCH-03,2026-07-16 19:06:00,false,0.00
+APL-0271,Bhavana Rao,2007-02-03,F,Mohan Yadav,GEN,true,false,Shivamogga,BPHARM,1,INS-003,55.22,247857.00,2026-05-24,SCH-01,2026-07-16 19:07:00,false,0.00
+APL-0272,Madhuri Kamath,2006-01-08,F,Anil Patil,SC,false,false,Belagavi,BCOM,1,INS-013,74.43,676460.00,2026-01-25,SCH-03,2026-07-16 20:02:00,false,0.00
+APL-0273,Santosh Chowdhury,2005-05-10,M,Lokesh Menon,OBC,false,false,Belagavi,BE,1,INS-037,49.05,59542.00,2026-04-03,SCH-05,2026-07-17 10:28:00,false,0.00
+APL-0274,Girish Jain,2006-03-14,M,Sandeep Khan,OBC,false,false,Hassan,BSC,1,INS-036,64.60,156159.00,2026-07-09,SCH-02,2026-07-17 11:14:00,false,0.00
+APL-0275,Abhishek Reddy,2005-11-08,M,Chetan Reddy,SC,false,false,Belagavi,BCOM,1,INS-015,81.26,129315.00,2026-02-22,SCH-01,2026-07-17 11:59:00,false,0.00
+APL-0276,Sahana Naik,2008-03-27,F,Mahesh Singh,ST,false,false,Tumakuru,MBBS,1,INS-025,60.77,159967.00,2026-02-26,SCH-03,2026-07-17 12:08:00,false,0.00
+APL-0277,Deepa Prabhu,2005-08-22,F,Prakash Setty,OBC,false,false,Dharwad,BE,1,INS-007,89.00,852381.00,2026-05-14,SCH-06,2026-07-17 12:15:00,false,0.00
+APL-0278,Divya Hegde,2008-07-16,F,Ganesh Naik,SC,false,false,Dharwad,BA,1,INS-001,93.67,170630.00,2026-01-11,SCH-02,2026-07-17 12:24:00,false,0.00
+APL-0279,Darshan Sharma,2008-03-28,M,Arjun Nair,GEN,false,false,Bengaluru Urban,BCOM,1,INS-001,52.94,61585.00,2026-01-24,SCH-04,2026-07-17 12:41:00,false,0.00
+APL-0280,Anitha Menon,2006-04-14,F,Hemanth Setty,OBC,false,false,Tumakuru,BSC,1,INS-007,70.00,106319.00,2026-05-05,SCH-01,2026-07-17 12:50:00,false,0.00
+APL-0281,Tejaswini Singh,2007-03-23,F,Abhishek Kamath,GEN,false,false,Ballari,BSC,1,INS-001,54.05,259721.00,2026-07-11,SCH-05,2026-07-17 15:16:00,false,0.00
+APL-0282,Sahana Agarwal,2005-11-14,F,Karthik Sharma,GEN,false,false,Bengaluru Urban,MBBS,1,INS-004,86.51,161316.00,2026-07-13,SCH-03,2026-07-17 15:27:00,false,0.00
+APL-0283,Jagadish Iyer,2007-08-11,M,Sumanth Kulkarni,OBC,false,false,Hassan,BSC,1,INS-018,91.41,355676.00,2026-01-27,SCH-01,2026-07-17 16:38:00,false,0.00
+APL-0284,Abhishek Desai,2006-01-01,M,Vikram Menon,GEN,false,false,Ballari,BE,1,INS-037,65.88,217832.00,2026-02-28,SCH-03,2026-07-17 17:33:00,false,0.00
+APL-0285,Sowmya Iyer,2008-01-25,F,Lokesh Pillai,GEN,false,false,Hassan,BCOM,1,INS-001,61.30,208540.00,2026-03-02,SCH-05,2026-07-17 18:12:00,false,0.00
+APL-0286,Priya Kumar,2005-06-07,F,Sumanth Verma,ST,false,false,Mysuru,BE,1,INS-014,61.93,140807.00,2026-04-07,SCH-05,2026-07-17 18:21:00,false,0.00
+APL-0287,Suresh Acharya,2007-05-24,M,Yashwanth Sharma,GEN,false,false,Mysuru,BA,1,INS-020,82.98,815406.00,2026-04-21,SCH-05,2026-07-17 19:44:00,false,0.00
+APL-0288,Ravi Sharma,2008-06-09,M,Girish Rao,OBC,false,false,Tumakuru,BSC,1,INS-007,75.00,178451.00,2026-03-09,SCH-01,2026-07-17 20:25:00,false,0.00
+APL-0289,Nagesh Shetty,2006-12-24,M,Arjun Sheikh,GEN,false,false,Dharwad,BPHARM,1,INS-010,70.76,338776.00,2026-05-22,SCH-05,2026-07-17 21:51:00,false,0.00
+APL-0290,Basavaraj Desai,2006-12-07,M,Jagadish Setty,SC,false,false,Dharwad,BSC,1,INS-007,62.44,123536.00,2026-04-15,SCH-04,2026-07-18 09:04:00,false,0.00
+APL-0291,Deepa Prabhu,2007-12-05,F,Venkatesh Verma,GEN,false,false,Bengaluru Urban,BE,1,INS-002,60.81,163859.00,2026-03-03,SCH-01,2026-07-18 09:19:00,false,0.00
+APL-0292,Lakshmi Sharma,2006-10-11,F,Tejas Setty,GEN,false,false,Kalaburagi,MBBS,1,INS-039,55.08,419812.00,2026-05-15,SCH-05,2026-07-18 09:50:00,false,0.00
+APL-0293,Pavithra Nair,2008-11-07,F,Mahesh Yadav,GEN,false,false,Shivamogga,BCOM,1,INS-015,59.42,253616.00,2026-03-13,SCH-01,2026-07-18 10:07:00,false,0.00
+APL-0294,Abhishek Rao,2008-05-22,M,Karthik Hegde,SC,false,false,Belagavi,BCOM,1,INS-029,75.93,730753.00,2026-02-28,SCH-02,2026-07-18 12:27:00,false,0.00
+APL-0295,Kiran Shetty,2006-06-12,M,Santosh Chowdhury,SC,false,false,Dakshina Kannada,BCOM,1,INS-034,60.69,842156.00,2026-01-25,SCH-06,2026-07-18 12:37:00,false,0.00
+APL-0296,Rajesh Iyer,2005-06-28,M,Sharath Bhat,SC,false,false,Dharwad,MBBS,1,INS-018,78.24,215654.00,2026-07-11,SCH-03,2026-07-18 12:50:00,false,0.00
+APL-0297,Mohammed Naik,2008-12-09,M,Abhishek Sharma,ST,true,false,Bengaluru Urban,BSC,1,INS-025,77.98,884172.00,2026-03-27,SCH-06,2026-07-18 13:21:00,false,0.00
+APL-0298,Meena Khan,2008-08-18,F,Prakash Agarwal,OBC,false,false,Kalaburagi,BE,1,INS-028,67.01,68806.00,2026-02-17,SCH-03,2026-07-18 14:08:00,false,0.00
+APL-0299,Yamini Verma,2008-05-20,F,Harish Iyer,SC,true,false,Ballari,BCOM,1,INS-020,76.95,170117.00,2026-03-12,SCH-06,2026-07-18 14:14:00,false,0.00
+APL-0300,Manjula Nair,2006-08-01,F,Manoj Shetty,SC,false,false,Hassan,BE,1,INS-030,89.03,400441.00,2026-04-01,SCH-03,2026-07-18 14:15:00,false,0.00
+APL-0301,Deepa Verma,2008-08-26,F,Santosh Gowda,OBC,false,false,Mysuru,BE,1,INS-002,57.09,711418.00,2026-03-04,SCH-01,2026-07-18 14:32:00,false,0.00
+APL-0302,Girish Chowdhury,2008-06-06,M,Pradeep Jain,SC,false,false,Bengaluru Urban,BE,1,INS-007,82.36,843708.00,2026-03-14,SCH-04,2026-07-18 15:12:00,false,0.00
+APL-0303,Mahesh Kamath,2005-08-09,M,Lokesh Shetty,SC,true,false,Dharwad,BCOM,1,INS-020,59.21,153641.00,2026-02-02,SCH-01,2026-07-18 16:11:00,false,0.00
+APL-0304,Sudha Menon,2006-03-23,F,Darshan Iyer,OBC,false,false,Dakshina Kannada,BA,1,INS-034,82.88,782456.00,2026-05-15,SCH-01,2026-07-18 18:58:00,false,0.00
+APL-0305,Manoj Menon,2005-07-08,M,Arjun Joshi,GEN,false,false,Belagavi,BPHARM,1,INS-024,66.12,891906.00,2026-01-16,SCH-04,2026-07-18 19:14:00,false,0.00
+APL-0306,Usha Nair,2008-12-06,F,Mohammed Verma,GEN,false,false,Belagavi,BA,1,INS-008,49.33,327975.00,2026-05-22,SCH-02,2026-07-18 19:47:00,false,0.00
+APL-0307,Nandini Setty,2008-08-26,F,Suresh Kulkarni,OBC,false,false,Bengaluru Urban,BSC,1,INS-013,68.50,42139.00,2026-05-03,SCH-04,2026-07-18 21:09:00,false,0.00
+APL-0308,Manjula Kumar,2006-12-12,F,Prakash Yadav,GEN,false,false,Shivamogga,BE,1,INS-035,76.04,317775.00,2026-04-03,SCH-04,2026-07-19 09:38:00,false,0.00
+APL-0309,Harish Kumar,2006-09-10,M,Sharath Sheikh,GEN,false,false,Belagavi,MBBS,1,INS-011,60.48,87047.00,2026-07-07,SCH-03,2026-07-19 09:48:00,false,0.00
+APL-0310,Tejas Kulkarni,2006-10-12,M,Nikhil Murthy,OBC,false,false,Ballari,BA,1,INS-006,53.96,662321.00,2026-07-11,SCH-02,2026-07-19 10:26:00,false,0.00
+APL-0311,Mohan Kumar,2007-05-12,M,Girish Menon,ST,false,false,Kalaburagi,BCOM,1,INS-029,55.13,293977.00,2026-04-16,SCH-03,2026-07-19 10:36:00,false,0.00
+APL-0312,Vikram Chowdhury,2006-10-20,M,Hemanth Kumar,GEN,false,false,Shivamogga,BA,1,INS-020,91.27,45166.00,2026-03-22,SCH-01,2026-07-19 10:45:00,false,0.00
+APL-0313,Rekha Khan,2008-11-07,F,Mohan Shetty,OBC,false,false,Shivamogga,DIPLOMA,1,INS-040,94.35,352718.00,2026-03-11,SCH-02,2026-07-19 11:16:00,false,0.00
+APL-0314,Nikhil Pillai,2005-09-28,M,Kiran Desai,SC,false,false,Hassan,DIPLOMA,1,INS-005,51.28,336638.00,2026-01-09,SCH-01,2026-07-19 11:19:00,false,0.00
+APL-0315,Roopa Singh,2008-07-17,F,Sharath Chowdhury,SC,true,false,Dharwad,BA,1,INS-029,82.67,149591.00,2026-04-11,SCH-06,2026-07-19 15:44:00,false,0.00
+APL-0316,Hemanth Joshi,2005-11-14,M,Sandeep Agarwal,OBC,false,false,Bengaluru Urban,BCOM,1,INS-034,93.40,612774.00,2026-04-20,SCH-02,2026-07-19 16:59:00,false,0.00
+APL-0317,Rohit Reddy,2006-08-04,M,Rajesh Verma,OBC,false,false,Kalaburagi,BSC,1,INS-027,54.31,571603.00,2026-06-07,SCH-02,2026-07-19 18:20:00,false,0.00
+APL-0318,Arjun Kamath,2007-04-20,M,Venkatesh Reddy,GEN,false,false,Ballari,BA,1,INS-006,63.98,286511.00,2026-01-28,SCH-02,2026-07-19 21:13:00,false,0.00
+APL-0319,Imran Rao,2006-04-09,M,Nagesh Sheikh,SC,true,false,Mysuru,BSC,1,INS-015,74.03,791830.00,2026-05-19,SCH-01,2026-07-19 21:46:00,false,0.00
+APL-0320,Keerthi Pillai,2006-02-18,F,Vikram Sheikh,SC,false,false,Ballari,BCOM,1,INS-008,77.27,260766.00,2026-02-11,SCH-06,2026-07-20 09:58:00,false,0.00
+APL-0321,Hemanth Singh,2006-06-02,M,Yashwanth Kamath,ST,false,false,Belagavi,BE,1,INS-037,81.60,45890.00,2026-01-19,SCH-02,2026-07-20 10:25:00,false,0.00
+APL-0322,Mahesh Singh,2006-04-16,M,Suresh Murthy,GEN,false,false,Mysuru,DIPLOMA,1,INS-033,73.10,196419.00,2026-07-19,SCH-05,2026-07-20 10:58:00,false,0.00
+APL-0323,Rahul Reddy,2005-04-09,M,Darshan Menon,OBC,false,false,Dharwad,BSC,1,INS-014,94.81,426056.00,2026-06-07,SCH-01,2026-07-20 12:25:00,false,0.00
+APL-0324,Usha Acharya,2005-11-04,F,Deepak Iyer,OBC,false,false,Dakshina Kannada,BSC,1,INS-020,81.97,213764.00,2026-07-21,SCH-01,2026-07-20 12:40:00,false,0.00
+APL-0325,Rajesh Khan,2005-12-10,M,Vikram Bhat,GEN,false,false,Dharwad,BA,1,INS-022,83.19,406385.00,2026-06-07,SCH-02,2026-07-20 14:01:00,false,0.00
+APL-0326,Sowmya Naik,2007-03-14,F,Rahul Kumar,OBC,false,false,Mysuru,BSC,1,INS-022,79.00,110000.00,2026-01-07,SCH-02,2026-07-20 18:30:00,false,0.00
+APL-0327,Basavaraj Pillai,2007-12-04,M,Suresh Joshi,GEN,false,false,Shivamogga,BE,1,INS-028,74.71,211310.00,2026-01-28,SCH-02,2026-07-20 18:50:00,false,0.00
+APL-0328,Prakash Agarwal,2007-02-18,M,Mahesh Setty,GEN,false,false,Ballari,DIPLOMA,1,INS-033,73.18,252060.00,2026-06-03,SCH-02,2026-07-20 19:17:00,false,0.00
+APL-0329,Lokesh Pillai,2008-04-20,M,Kiran Hegde,OBC,false,false,Mysuru,DIPLOMA,1,INS-040,55.88,160760.00,2026-02-16,SCH-05,2026-07-20 19:59:00,false,0.00
+APL-0330,Nikhil Sharma,2006-05-08,M,Vikram Kumar,OBC,false,false,Dakshina Kannada,BCOM,1,INS-008,63.80,128389.00,2026-07-12,SCH-01,2026-07-20 20:36:00,false,0.00
+APL-0331,Pavithra Chowdhury,2006-06-14,F,Venkatesh Setty,SC,false,false,Dakshina Kannada,BE,1,INS-037,55.57,319717.00,2026-05-20,SCH-01,2026-07-20 20:46:00,false,0.00
+APL-0332,Anil Pillai,2006-12-15,M,Ganesh Jain,OBC,false,false,Hassan,MBBS,1,INS-011,78.10,884972.00,2026-05-20,SCH-01,2026-07-20 20:48:00,false,0.00
+APL-0333,Shivaraj Acharya,2007-06-08,M,Harish Reddy,GEN,false,false,Shivamogga,MBBS,1,INS-004,52.30,367529.00,2026-04-01,SCH-04,2026-07-20 21:22:00,false,0.00
+APL-0334,Pradeep Naik,2008-06-05,M,Vikram Gowda,GEN,true,false,Hassan,BE,1,INS-014,93.58,758134.00,2026-07-01,SCH-06,2026-07-21 09:21:00,false,0.00
+APL-0335,Harini Bhat,2005-02-14,F,Jagadish Bhat,SC,false,false,Mysuru,DIPLOMA,1,INS-040,56.08,723000.00,2026-06-03,SCH-03,2026-07-21 10:21:00,false,0.00
+APL-0336,Shruthi Murthy,2008-01-22,F,Sumanth Pillai,OBC,false,false,Shivamogga,DIPLOMA,1,INS-026,85.12,89450.00,2026-03-16,SCH-01,2026-07-21 12:12:00,false,0.00
+APL-0337,Kiran Nair,2006-04-20,M,Anil Iyer,OBC,false,false,Belagavi,MBBS,1,INS-039,51.52,58341.00,2026-03-28,SCH-02,2026-07-21 12:55:00,false,0.00
+APL-0338,Tejaswini Verma,2007-06-16,F,Manoj Nair,OBC,false,false,Tumakuru,BSC,1,INS-004,73.39,141940.00,2026-01-22,SCH-06,2026-07-21 13:49:00,false,0.00
+APL-0339,Deepak Pillai,2006-06-13,M,Abhishek Setty,GEN,false,false,Hassan,BCOM,1,INS-008,89.82,512459.00,2026-01-19,SCH-05,2026-07-21 15:01:00,false,0.00
+APL-0340,Basavaraj Prabhu,2005-01-28,M,Rahul Rao,SC,false,false,Belagavi,BE,1,INS-037,78.47,199529.00,2026-07-16,SCH-03,2026-07-21 16:00:00,false,0.00
+APL-0341,Rekha Naik,2008-05-02,F,Jagadish Sheikh,ST,false,false,Belagavi,BCOM,1,INS-034,92.91,69385.00,2026-07-25,SCH-02,2026-07-21 16:43:00,false,0.00
+APL-0342,Nandini Nair,2006-04-23,F,Mohammed Bhat,ST,false,false,Bengaluru Urban,MBBS,1,INS-032,81.92,570507.00,2026-02-20,SCH-03,2026-07-21 17:25:00,false,0.00
+APL-0343,Yashwanth Hegde,2007-01-23,M,Basavaraj Bhat,OBC,false,false,Tumakuru,BA,1,INS-029,52.39,705066.00,2026-05-05,SCH-06,2026-07-21 18:58:00,false,0.00
+APL-0344,Mohammed Desai,2005-05-28,M,Darshan Jain,GEN,false,false,Belagavi,BA,1,INS-013,59.08,233880.00,2026-01-03,SCH-02,2026-07-21 19:07:00,false,0.00
+APL-0345,Deepak Singh,2005-02-02,M,Ravi Khan,GEN,false,false,Belagavi,BSC,1,INS-013,62.80,187026.00,2026-03-20,SCH-01,2026-07-21 19:19:00,false,0.00
+APL-0346,Suresh Bhat,2005-01-10,M,Mohammed Acharya,GEN,false,false,Dharwad,MBBS,1,INS-032,60.17,402472.00,2026-01-14,SCH-01,2026-07-21 19:42:00,false,0.00
+APL-0347,Chaitra Kamath,2008-05-21,F,Rajesh Jain,OBC,false,false,Bengaluru Urban,DIPLOMA,1,INS-019,57.07,102014.00,2026-05-02,SCH-06,2026-07-21 19:57:00,false,0.00
+APL-0348,Yashwanth Acharya,2006-12-24,M,Imran Patil,OBC,true,false,Ballari,BSC,1,INS-001,67.77,98362.00,2026-07-22,SCH-05,2026-07-21 20:23:00,false,0.00
+APL-0349,Prakash Verma,2006-08-20,M,Sharath Rao,GEN,false,false,Mysuru,BE,1,INS-037,54.05,507094.00,2026-05-14,SCH-03,2026-07-21 20:45:00,false,0.00
+APL-0350,Vidya Sheikh,2005-06-10,F,Mohammed Chowdhury,OBC,false,false,Kalaburagi,MBBS,1,INS-004,52.00,274343.00,2026-02-11,SCH-06,2026-07-21 20:49:00,false,0.00
+APL-0351,Anitha Singh,2008-10-23,F,Girish Hegde,OBC,false,false,Dharwad,DIPLOMA,1,INS-033,65.55,31374.00,2026-07-18,SCH-03,2026-07-21 20:59:00,false,0.00
+APL-0352,Lakshmi Murthy,2006-12-05,F,Kiran Jain,ST,false,false,Bengaluru Urban,BCOM,1,INS-029,89.06,394942.00,2026-02-23,SCH-06,2026-07-22 11:05:00,false,0.00
+APL-0353,Ravi Joshi,2006-08-10,M,Rajesh Joshi,OBC,false,false,Kalaburagi,BCOM,1,INS-015,53.85,532094.00,2026-01-09,SCH-06,2026-07-22 11:10:00,false,0.00
+APL-0354,Nagesh Setty,2006-05-17,M,Prakash Joshi,GEN,false,false,Tumakuru,BA,1,INS-008,88.88,33258.00,2026-05-26,SCH-01,2026-07-22 12:23:00,false,0.00
+APL-0355,Arjun Hegde,2007-07-18,M,Darshan Singh,OBC,true,false,Bengaluru Urban,BSC,1,INS-039,63.43,776061.00,2026-06-22,SCH-05,2026-07-22 13:32:00,false,0.00
+APL-0356,Mohammed Singh,2006-10-02,M,Imran Iyer,GEN,false,false,Shivamogga,BSC,1,INS-011,63.01,90900.00,2026-03-10,SCH-04,2026-07-22 14:02:00,false,0.00
+APL-0357,Venkatesh Joshi,2005-03-18,M,Hemanth Iyer,OBC,false,false,Tumakuru,BSC,1,INS-007,77.50,57419.00,2026-04-22,SCH-01,2026-07-22 14:21:00,false,0.00
+APL-0358,Chetan Singh,2005-09-17,M,Tejas Naik,OBC,false,false,Tumakuru,BSC,1,INS-007,72.50,128277.00,2026-04-11,SCH-01,2026-07-22 14:23:00,false,0.00
+APL-0359,Deepak Joshi,2007-05-23,M,Ganesh Reddy,SC,false,false,Dakshina Kannada,DIPLOMA,1,INS-005,52.33,60516.00,2026-04-10,SCH-01,2026-07-22 15:02:00,false,0.00
+APL-0360,Divya Kamath,2005-03-02,F,Harish Kulkarni,OBC,false,false,Bengaluru Urban,BA,1,INS-001,58.20,673799.00,2026-01-13,SCH-05,2026-07-22 16:48:00,false,0.00
+APL-0361,Keerthi Sharma,2005-02-08,F,Rahul Hegde,OBC,false,false,Belagavi,BSC,1,INS-006,74.17,43636.00,2026-01-04,SCH-01,2026-07-22 17:36:00,false,0.00
+APL-0362,Madhuri Jain,2006-09-20,F,Ganesh Patil,GEN,false,false,Mysuru,DIPLOMA,1,INS-005,85.43,59920.00,2026-05-18,SCH-04,2026-07-23 09:09:00,false,0.00
+APL-0363,Geetha Rao,2005-03-28,F,Yashwanth Pillai,SC,false,false,Kalaburagi,BE,1,INS-002,93.16,715636.00,2026-05-03,SCH-01,2026-07-23 10:00:00,false,0.00
+APL-0364,Darshan Prabhu,2007-04-26,M,Anil Joshi,SC,false,false,Mysuru,BA,1,INS-015,57.56,330665.00,2026-06-15,SCH-05,2026-07-23 10:20:00,false,0.00
+APL-0365,Ganesh Prabhu,2007-09-09,M,Sharath Naik,GEN,false,false,Belagavi,MBBS,1,INS-018,64.11,210815.00,2026-07-01,SCH-03,2026-07-23 10:38:00,false,0.00
+APL-0366,Keerthi Kulkarni,2005-06-18,F,Anil Setty,GEN,false,false,Shivamogga,MBBS,1,INS-025,76.31,585953.00,2026-04-20,SCH-06,2026-07-23 11:40:00,false,0.00
+APL-0367,Sumanth Murthy,2008-07-08,M,Hemanth Chowdhury,GEN,false,false,Mysuru,BCOM,1,INS-015,87.56,38679.00,2026-04-22,SCH-02,2026-07-23 12:23:00,false,0.00
+APL-0368,Ramya Rao,2005-01-26,F,Venkatesh Setty,GEN,false,false,Tumakuru,BA,1,INS-036,77.50,889315.00,2026-05-20,SCH-06,2026-07-23 12:26:00,false,0.00
+APL-0369,Tejaswini Sheikh,2005-02-24,F,Mohammed Prabhu,OBC,false,false,Hassan,MBBS,1,INS-011,69.57,513276.00,2026-04-18,SCH-04,2026-07-23 13:17:00,false,0.00
+APL-0370,Shilpa Rao,2007-07-28,F,Vikram Khan,OBC,false,false,Belagavi,BA,1,INS-029,65.20,394653.00,2026-04-24,SCH-05,2026-07-23 13:59:00,false,0.00
+APL-0371,Deepa Chowdhury,2008-05-08,F,Rohit Agarwal,ST,false,false,Dharwad,BE,1,INS-002,75.89,233850.00,2026-03-23,SCH-03,2026-07-23 14:27:00,false,0.00
+APL-0372,Vidya Naik,2006-01-07,F,Rahul Jain,GEN,true,false,Shivamogga,BE,1,INS-009,50.33,254097.00,2026-01-15,SCH-05,2026-07-23 16:11:00,false,0.00
+APL-0373,Kiran Gowda,2006-03-24,M,Pradeep Agarwal,SC,false,false,Belagavi,MBBS,1,INS-032,92.69,449967.00,2026-04-01,SCH-06,2026-07-23 18:13:00,false,0.00
+APL-0374,Tejaswini Agarwal,2005-10-08,F,Ravi Murthy,OBC,true,false,Ballari,BSC,1,INS-028,78.00,100000.00,2026-06-04,SCH-02,2026-07-23 18:27:00,false,0.00
+APL-0375,Anil Joshi,2006-05-10,M,Sandeep Prabhu,OBC,false,false,Mysuru,BSC,1,INS-027,52.57,46619.00,2026-02-13,SCH-03,2026-07-23 19:59:00,false,0.00
+APL-0376,Keerthi Joshi,2006-12-12,F,Raghav Reddy,OBC,false,false,Kalaburagi,BA,1,INS-036,84.06,705785.00,2026-07-08,SCH-06,2026-07-24 10:07:00,false,0.00
+APL-0377,Varsha Singh,2008-12-05,F,Deepak Acharya,GEN,false,false,Mysuru,BE,1,INS-035,59.45,83733.00,2026-07-12,SCH-05,2026-07-24 10:34:00,false,0.00
+APL-0378,Mary Pillai,2006-06-05,F,Rahul Nair,OBC,false,false,Bengaluru Urban,BSC,1,INS-032,71.00,85000.00,2026-01-02,SCH-02,2026-07-24 10:48:00,false,0.00
+APL-0379,Kavya Chowdhury,2007-08-07,F,Santosh Gowda,ST,false,false,Mysuru,BA,1,INS-020,79.85,240723.00,2026-01-12,SCH-06,2026-07-24 15:59:00,false,0.00
+APL-0380,Nagesh Rao,2008-02-05,M,Nikhil Iyer,OBC,false,false,Shivamogga,DIPLOMA,1,INS-040,57.05,224023.00,2026-04-02,SCH-06,2026-07-24 16:12:00,false,0.00
+APL-0381,Anitha Reddy,2006-11-15,F,Harish Murthy,GEN,false,false,Hassan,BPHARM,1,INS-003,92.35,155709.00,2026-01-21,SCH-04,2026-07-24 16:14:00,false,0.00
+APL-0382,Basavaraj Bhat,2006-07-11,M,Sumanth Setty,GEN,false,false,Dakshina Kannada,BCOM,1,INS-034,70.97,104433.00,2026-01-16,SCH-02,2026-07-24 16:25:00,false,0.00
+APL-0383,Sowmya Kumar,2007-09-27,F,Vikram Nair,ST,true,false,Dharwad,BE,1,INS-028,85.28,409344.00,2026-07-19,SCH-04,2026-07-24 17:08:00,false,0.00
+APL-0384,Harini Shetty,2005-05-16,F,Lokesh Agarwal,SC,false,false,Bengaluru Urban,BE,1,INS-014,86.53,131536.00,2026-07-27,SCH-01,2026-07-24 17:15:00,false,0.00
+APL-0385,Keerthi Khan,2005-05-01,F,Lokesh Gowda,ST,false,false,Kalaburagi,BPHARM,1,INS-010,60.68,84817.00,2026-02-16,SCH-03,2026-07-24 17:16:00,false,0.00
+APL-0386,Harini Joshi,2006-05-23,F,Sharath Menon,OBC,false,false,Mysuru,DIPLOMA,1,INS-019,69.86,406998.00,2026-06-28,SCH-04,2026-07-24 17:34:00,false,0.00
+APL-0387,Manoj Hegde,2006-11-07,M,Mohan Sharma,GEN,false,true,Mysuru,DIPLOMA,1,INS-026,89.20,723070.00,2026-06-11,SCH-05,2026-07-24 18:14:00,false,0.00
+APL-0388,Venkatesh Verma,2006-02-06,M,Yashwanth Joshi,OBC,false,false,Ballari,DIPLOMA,1,INS-019,85.19,733036.00,2026-01-05,SCH-02,2026-07-24 19:37:00,false,0.00
+APL-0389,Tejas Setty,2005-04-05,M,Prakash Joshi,GEN,false,false,Ballari,DIPLOMA,1,INS-040,77.23,33541.00,2026-07-17,SCH-03,2026-07-24 20:18:00,false,0.00
+APL-0390,Raghav Singh,2008-06-26,M,Lokesh Bhat,SC,false,false,Belagavi,BA,1,INS-027,83.61,433357.00,2026-03-16,SCH-06,2026-07-24 21:05:00,false,0.00
+APL-0391,Ramya Murthy,2005-08-04,F,Rahul Gowda,OBC,false,false,Belagavi,BCOM,1,INS-027,56.36,259992.00,2026-04-25,SCH-01,2026-07-24 21:50:00,false,0.00
+APL-0392,Prakash Joshi,2008-07-25,M,Rajesh Pillai,SC,false,false,Ballari,DIPLOMA,1,INS-012,65.42,266210.00,2026-03-27,SCH-04,2026-07-25 09:34:00,false,0.00
+APL-0393,Varsha Sharma,2007-07-25,F,Nagesh Bhat,GEN,false,false,Mysuru,BSC,1,INS-022,91.31,35627.00,2026-01-16,SCH-01,2026-07-25 09:37:00,false,0.00
+APL-0394,Anitha Chowdhury,2005-10-25,F,Mohammed Yadav,GEN,true,false,Dakshina Kannada,BE,1,INS-009,72.35,753515.00,2026-03-03,SCH-03,2026-07-25 09:40:00,false,0.00
+APL-0395,Rohit Agarwal,2005-09-09,M,Anil Sharma,OBC,true,false,Dharwad,BPHARM,1,INS-038,57.94,381244.00,2026-07-19,SCH-04,2026-07-25 10:12:00,false,0.00
+APL-0396,Nikhil Jain,2005-07-12,M,Lokesh Naik,GEN,true,false,Ballari,BCOM,1,INS-015,81.79,147958.00,2026-07-15,SCH-05,2026-07-25 10:51:00,false,0.00
+APL-0397,Ravi Naik,2008-08-28,M,Chetan Naik,OBC,false,false,Tumakuru,BSC,1,INS-007,82.50,116105.00,2026-01-02,SCH-01,2026-07-25 12:40:00,false,0.00
+APL-0398,Rohit Agarwal,2007-02-09,M,Rohit Nair,GEN,false,false,Kalaburagi,BA,1,INS-027,90.16,237313.00,2026-01-21,SCH-05,2026-07-25 13:44:00,false,0.00
+APL-0399,Deepa Kulkarni,2007-03-12,F,Harish Shetty,OBC,false,false,Belagavi,BE,1,INS-023,74.61,111514.00,2026-04-16,SCH-01,2026-07-25 15:18:00,false,0.00
+APL-0400,Chetan Rao,2007-09-18,M,Harish Verma,SC,false,false,Bengaluru Urban,BPHARM,1,INS-038,87.31,568972.00,2026-07-21,SCH-03,2026-07-25 15:51:00,false,0.00
+APL-0401,Ramya Murthy,2006-06-10,F,Harish Gowda,GEN,false,false,Shivamogga,BA,1,INS-001,75.02,57297.00,2026-05-25,SCH-04,2026-07-25 16:02:00,false,0.00
+APL-0402,Shivaraj Desai,2005-04-22,M,Nagesh Nair,GEN,false,false,Dakshina Kannada,BPHARM,1,INS-010,80.28,304295.00,2026-07-21,SCH-05,2026-07-25 17:15:00,false,0.00
+APL-0403,Harini Hegde,2006-10-10,F,Rohit Murthy,SC,false,false,Kalaburagi,BPHARM,1,INS-017,73.21,336934.00,2026-07-26,SCH-04,2026-07-25 18:10:00,false,0.00
+APL-0404,Meena Patil,2005-09-03,F,Rajesh Rao,OBC,false,false,Tumakuru,MBBS,1,INS-004,92.26,60461.00,2026-02-27,SCH-06,2026-07-25 18:47:00,false,0.00
+APL-0405,Ramya Acharya,2007-12-27,F,Pradeep Bhat,GEN,false,false,Ballari,BSC,1,INS-011,62.83,109415.00,2026-07-28,SCH-02,2026-07-25 19:10:00,false,0.00
+APL-0406,Jyothi Hegde,2006-07-11,F,Imran Iyer,SC,false,false,Bengaluru Urban,DIPLOMA,1,INS-026,66.16,596460.00,2026-03-28,SCH-02,2026-07-25 19:59:00,false,0.00
+APL-0407,Ananya Agarwal,2007-03-13,F,Deepak Acharya,GEN,false,false,Belagavi,BPHARM,1,INS-017,58.02,289208.00,2026-03-10,SCH-05,2026-07-25 21:20:00,false,0.00
+APL-0408,Sneha Gowda,2008-08-21,F,Santosh Acharya,GEN,false,false,Tumakuru,BA,1,INS-034,54.31,170711.00,2026-02-11,SCH-02,2026-07-25 21:44:00,false,0.00
+APL-0409,Sowmya Chowdhury,2005-12-10,F,Yashwanth Jain,GEN,false,false,Dakshina Kannada,BPHARM,1,INS-038,54.25,335844.00,2026-02-06,SCH-05,2026-07-25 21:59:00,false,0.00
+APL-0410,Ananya Yadav,2007-10-09,F,Rajesh Nair,SC,false,false,Mysuru,BSC,1,INS-008,55.86,37107.00,2026-04-17,SCH-04,2026-07-26 09:54:00,false,0.00
+APL-0411,Mahesh Sharma,2006-04-25,M,Rahul Kamath,SC,false,false,Dakshina Kannada,BCOM,1,INS-013,78.58,376979.00,2026-06-01,SCH-05,2026-07-26 10:28:00,false,0.00
+APL-0412,Hemanth Verma,2008-12-20,M,Imran Agarwal,GEN,true,false,Mysuru,BA,1,INS-015,93.80,424486.00,2026-02-01,SCH-02,2026-07-26 10:37:00,false,0.00
+APL-0413,Tejaswini Kulkarni,2006-01-12,F,Abhishek Jain,GEN,false,false,Tumakuru,BCOM,1,INS-015,72.61,565197.00,2026-01-14,SCH-06,2026-07-26 11:21:00,false,0.00
+APL-0414,Darshan Khan,2008-01-06,M,Ravi Prabhu,OBC,true,false,Kalaburagi,BA,1,INS-001,67.29,535715.00,2026-02-12,SCH-03,2026-07-26 11:40:00,false,0.00
+APL-0415,Naveen Joshi,2006-02-22,M,Suresh Prabhu,OBC,false,false,Belagavi,BSC,1,INS-035,64.25,74765.00,2026-03-24,SCH-01,2026-07-26 11:41:00,false,0.00
+APL-0416,Rohit Murthy,2005-02-09,M,Mohan Jain,GEN,false,false,Kalaburagi,BSC,1,INS-001,87.58,57689.00,2026-07-17,SCH-02,2026-07-26 12:32:00,false,0.00
+APL-0417,Shruthi Naik,2006-04-27,F,Nagesh Sheikh,SC,false,false,Belagavi,DIPLOMA,1,INS-012,72.08,120143.00,2026-05-17,SCH-06,2026-07-26 17:57:00,false,0.00
+APL-0418,Divya Singh,2007-02-14,F,Deepak Agarwal,SC,false,false,Belagavi,BSC,1,INS-008,68.13,183079.00,2026-02-26,SCH-01,2026-07-26 18:19:00,false,0.00
+APL-0419,Mary Naik,2008-10-10,F,Naveen Verma,GEN,false,false,Tumakuru,BA,1,INS-008,71.75,488404.00,2026-04-23,SCH-05,2026-07-26 18:42:00,false,0.00
+APL-0420,Raghav Jain,2008-01-11,M,Suresh Verma,GEN,false,false,Dakshina Kannada,BE,1,INS-035,53.63,403861.00,2026-05-15,SCH-04,2026-07-26 20:45:00,false,0.00
+APL-0421,Lakshmi Iyer,2007-11-16,F,Manoj Jain,GEN,false,false,Ballari,BE,1,INS-028,53.79,378175.00,2026-03-21,SCH-02,2026-07-26 21:51:00,false,0.00
+APL-0422,Pallavi Pillai,2008-03-24,F,Santosh Jain,GEN,false,false,Ballari,BCOM,1,INS-022,62.01,43255.00,2026-02-07,SCH-01,2026-07-27 09:27:00,false,0.00
+APL-0423,Mahesh Sharma,2007-06-14,M,Hemanth Hegde,OBC,false,false,Shivamogga,BCOM,1,INS-036,68.13,184103.00,2026-01-05,SCH-05,2026-07-27 10:10:00,false,0.00
+APL-0424,Raghav Desai,2007-04-07,M,Sandeep Shetty,SC,false,false,Dakshina Kannada,BA,1,INS-029,61.98,521083.00,2026-03-11,SCH-06,2026-07-27 11:57:00,false,0.00
+APL-0425,Nagesh Naik,2005-01-09,M,Girish Menon,GEN,false,false,Mysuru,BCOM,1,INS-015,72.00,60000.00,2026-05-04,SCH-02,2026-07-27 13:18:00,false,0.00
+APL-0426,Manjula Sheikh,2007-12-17,F,Mohan Patil,GEN,false,false,Shivamogga,BE,1,INS-028,75.04,97031.00,2026-03-21,SCH-02,2026-07-27 13:25:00,false,0.00
+APL-0427,Mohan Bhat,2008-10-20,M,Darshan Setty,OBC,false,true,Hassan,BSC,1,INS-039,95.96,208023.00,2026-05-15,SCH-06,2026-07-27 14:06:00,false,0.00
+APL-0428,Rekha Jain,2006-11-21,F,Venkatesh Hegde,SC,false,false,Bengaluru Urban,BE,1,INS-023,83.00,140000.00,2026-04-09,SCH-02,2026-07-27 14:31:00,true,20000.00
+APL-0429,Pooja Sharma,2007-05-10,F,Pradeep Murthy,OBC,false,false,Tumakuru,MBBS,1,INS-032,59.96,106978.00,2026-07-28,SCH-02,2026-07-27 15:24:00,false,0.00
+APL-0430,Sharath Shetty,2006-03-22,M,Pradeep Yadav,OBC,false,false,Tumakuru,BA,1,INS-020,48.19,81771.00,2026-06-21,SCH-03,2026-07-27 17:37:00,false,0.00
+APL-0431,Varsha Sharma,2007-03-17,F,Venkatesh Agarwal,OBC,false,false,Bengaluru Urban,BSC,1,INS-013,49.78,45163.00,2026-03-23,SCH-04,2026-07-27 17:40:00,false,0.00
+APL-0432,Rekha Kamath,2007-04-02,F,Yashwanth Reddy,GEN,false,false,Hassan,BSC,1,INS-015,83.01,274303.00,2026-07-21,SCH-03,2026-07-27 17:40:00,false,0.00
+APL-0433,Mohammed Naik,2008-12-23,M,Hemanth Shetty,SC,false,true,Mysuru,BE,1,INS-028,55.00,180000.00,2026-02-14,SCH-01,2026-07-27 20:30:00,false,0.00
+APL-0434,Swathi Bhat,2006-01-10,F,Prakash Patil,OBC,false,false,Bengaluru Urban,BA,1,INS-008,57.33,73005.00,2026-07-11,SCH-04,2026-07-27 21:25:00,false,0.00
+APL-0435,Rohit Reddy,2007-01-11,M,Mahesh Shetty,GEN,false,false,Kalaburagi,BCOM,1,INS-013,67.96,383716.00,2026-06-11,SCH-02,2026-07-27 21:38:00,false,0.00
+APL-0436,Santosh Patil,2005-11-03,M,Santosh Kulkarni,ST,true,false,Tumakuru,BSC,1,INS-004,84.25,258735.00,2026-01-17,SCH-02,2026-07-27 21:54:00,false,0.00
+APL-0437,Roopa Sheikh,2008-10-28,F,Prakash Kumar,GEN,false,false,Tumakuru,BPHARM,1,INS-024,90.21,147006.00,2026-01-15,SCH-01,2026-07-28 09:29:00,false,0.00
+APL-0438,Fathima Rao,2008-10-02,F,Ganesh Murthy,OBC,false,false,Ballari,BE,1,INS-014,75.81,311105.00,2026-01-08,SCH-04,2026-07-28 11:46:00,false,0.00
+APL-0439,Mohammed Shetty,2005-03-01,M,Rahul Acharya,OBC,true,false,Dakshina Kannada,BCOM,1,INS-036,54.77,290683.00,2026-02-14,SCH-05,2026-07-28 12:03:00,false,0.00
+APL-0440,Sowmya Acharya,2006-10-14,F,Sandeep Verma,SC,false,false,Dharwad,BCOM,1,INS-001,60.46,198975.00,2026-05-03,SCH-04,2026-07-28 12:48:00,false,0.00
+APL-0441,Varsha Reddy,2006-03-07,F,Mohan Kulkarni,ST,false,false,Bengaluru Urban,BA,1,INS-001,92.16,516305.00,2026-03-25,SCH-04,2026-07-28 14:55:00,false,0.00
+APL-0442,Tejaswini Naik,2007-05-05,F,Venkatesh Menon,GEN,false,false,Tumakuru,DIPLOMA,1,INS-005,64.33,834145.00,2026-03-12,SCH-05,2026-07-28 14:58:00,false,0.00
+APL-0443,Yashwanth Khan,2007-01-15,M,Tejas Hegde,ST,false,false,Tumakuru,BCOM,1,INS-008,69.76,309618.00,2026-04-26,SCH-01,2026-07-28 15:17:00,false,0.00
+APL-0444,Ananya Kamath,2007-03-25,F,Rohit Setty,OBC,false,false,Dharwad,DIPLOMA,1,INS-033,76.11,189813.00,2026-03-23,SCH-01,2026-07-28 15:42:00,false,0.00
+APL-0445,Meena Setty,2006-10-20,F,Nikhil Bhat,GEN,false,false,Bengaluru Urban,MBBS,1,INS-011,80.39,692100.00,2026-06-04,SCH-03,2026-07-28 15:48:00,false,0.00
+APL-0446,Nandini Prabhu,2006-04-09,F,Manoj Reddy,ST,false,false,Belagavi,DIPLOMA,1,INS-019,56.48,41046.00,2026-03-23,SCH-04,2026-07-28 16:55:00,false,0.00
+APL-0447,Yashwanth Kumar,2007-09-07,M,Hemanth Acharya,GEN,false,false,Belagavi,BE,1,INS-009,69.76,311571.00,2026-06-27,SCH-04,2026-07-28 17:31:00,false,0.00
+APL-0448,Prakash Murthy,2006-02-14,M,Deepak Menon,OBC,false,false,Belagavi,MBBS,1,INS-032,67.49,451094.00,2026-07-18,SCH-03,2026-07-28 19:25:00,false,0.00
+APL-0449,Usha Pillai,2007-01-19,F,Naveen Shetty,ST,false,false,Belagavi,BSC,1,INS-025,64.93,653557.00,2026-02-21,SCH-06,2026-07-28 19:51:00,false,0.00
+APL-0450,Mohammed Nair,2006-10-15,M,Basavaraj Chowdhury,OBC,true,false,Dakshina Kannada,BPHARM,1,INS-010,88.73,416221.00,2026-07-03,SCH-01,2026-07-28 21:40:00,false,0.00
+APL-0451,Mohammed Sharma,2008-05-11,M,Hemanth Reddy,SC,false,false,Hassan,MBBS,1,INS-004,55.19,156427.00,2026-03-18,SCH-03,2026-07-28 21:43:00,false,0.00
+APL-0452,Geetha Naik,2005-05-05,F,Yashwanth Chowdhury,SC,false,false,Kalaburagi,MBBS,1,INS-039,70.16,416345.00,2026-02-24,SCH-05,2026-07-28 21:45:00,false,0.00
+APL-0453,Imran Agarwal,2007-04-07,M,Nikhil Verma,GEN,false,false,Mysuru,DIPLOMA,1,INS-012,58.13,417101.00,2026-07-16,SCH-03,2026-07-28 21:58:00,false,0.00
+APL-0454,Sandeep Acharya,2006-05-12,M,Rahul Verma,GEN,false,false,Dakshina Kannada,BA,1,INS-034,67.76,166808.00,2026-05-02,SCH-06,2026-07-29 12:02:00,false,0.00
+APL-0455,Imran Pillai,2005-11-07,M,Pradeep Patil,SC,false,false,Belagavi,DIPLOMA,1,INS-012,50.44,814268.00,2026-06-24,SCH-04,2026-07-29 12:53:00,false,0.00
+APL-0456,Rahul Shetty,2007-05-22,M,Manoj Pillai,GEN,false,false,Belagavi,BE,1,INS-007,74.64,117063.00,2026-06-09,SCH-06,2026-07-29 13:43:00,false,0.00
+APL-0457,Sowmya Prabhu,2005-04-24,F,Venkatesh Kumar,GEN,false,false,Kalaburagi,BCOM,1,INS-013,59.05,891285.00,2026-01-09,SCH-06,2026-07-29 13:44:00,false,0.00
+APL-0458,Naveen Kamath,2007-09-15,M,Girish Patil,GEN,false,false,Belagavi,BPHARM,1,INS-024,63.71,203947.00,2026-02-08,SCH-02,2026-07-29 14:14:00,false,0.00
+APL-0459,Harini Setty,2008-09-07,F,Prakash Shetty,OBC,false,false,Tumakuru,BE,1,INS-035,77.93,166724.00,2026-01-10,SCH-01,2026-07-29 14:19:00,false,0.00
+APL-0460,Kavya Acharya,2007-07-02,F,Lokesh Desai,GEN,false,false,Hassan,BCOM,1,INS-006,72.29,863399.00,2026-07-04,SCH-04,2026-07-29 14:36:00,false,0.00
+APL-0461,Chaitra Kamath,2006-04-28,F,Sandeep Kumar,OBC,false,false,Ballari,DIPLOMA,1,INS-005,81.52,776687.00,2026-02-16,SCH-04,2026-07-29 15:04:00,false,0.00
+APL-0462,Bhavana Gowda,2006-09-25,F,Darshan Sharma,GEN,false,false,Hassan,BSC,1,INS-011,77.95,587911.00,2026-03-04,SCH-05,2026-07-29 18:22:00,false,0.00
+APL-0463,Asha Bhat,2006-06-22,F,Rajesh Agarwal,OBC,false,true,Tumakuru,BCOM,1,INS-008,66.00,210020.00,2026-05-10,SCH-04,2026-07-29 18:28:00,false,0.00
+APL-0464,Ayesha Sheikh,2008-07-14,F,Ganesh Hegde,GEN,false,true,Ballari,BCOM,1,INS-036,74.00,250001.00,2026-02-21,SCH-02,2026-07-29 18:29:00,false,0.00
+APL-0465,Rajesh Shetty,2008-01-17,M,Mohan Agarwal,GEN,false,false,Shivamogga,BCOM,1,INS-015,49.75,889301.00,2026-02-04,SCH-06,2026-07-29 19:14:00,false,0.00
+APL-0466,Yamini Kulkarni,2007-09-14,F,Karthik Hegde,SC,false,false,Ballari,DIPLOMA,1,INS-033,95.55,351126.00,2026-07-11,SCH-06,2026-07-29 20:25:00,false,0.00
+APL-0467,Vikram Reddy,2006-05-10,M,Deepak Nair,SC,false,false,Dakshina Kannada,BSC,1,INS-034,63.55,91936.00,2026-07-18,SCH-02,2026-07-29 20:50:00,false,0.00
+APL-0468,Priya Desai,2006-04-18,F,Ravi Sharma,OBC,false,false,Bengaluru Urban,BA,1,INS-008,75.96,34991.00,2026-06-02,SCH-04,2026-07-30 09:10:00,false,0.00
+APL-0469,Lakshmi Singh,2006-05-27,F,Rahul Singh,OBC,false,false,Bengaluru Urban,BCOM,1,INS-027,95.24,417169.00,2026-05-03,SCH-06,2026-07-30 10:37:00,false,0.00
+APL-0470,Tejas Joshi,2006-08-17,M,Prakash Desai,OBC,false,false,Bengaluru Urban,BCOM,1,INS-020,89.85,689352.00,2026-02-17,SCH-04,2026-07-30 11:03:00,false,0.00
+APL-0471,Harish Nair,2005-02-12,M,Rajesh Nair,OBC,true,false,Kalaburagi,MBBS,1,INS-025,50.80,676704.00,2026-01-19,SCH-06,2026-07-30 11:20:00,false,0.00
+APL-0472,Keerthi Gowda,2005-12-02,F,Jagadish Setty,GEN,false,false,Dakshina Kannada,BE,1,INS-037,92.79,410997.00,2026-01-22,SCH-03,2026-07-30 11:36:00,false,0.00
+APL-0473,Asha Pillai,2006-03-05,F,Lokesh Singh,SC,true,false,Kalaburagi,BA,1,INS-029,85.56,610038.00,2026-07-26,SCH-02,2026-07-30 12:32:00,false,0.00
+APL-0474,Hemanth Hegde,2008-02-19,M,Rajesh Gowda,ST,false,false,Bengaluru Urban,MBBS,1,INS-032,72.92,39929.00,2026-04-09,SCH-01,2026-07-30 12:47:00,false,0.00
+APL-0475,Fathima Pillai,2005-02-18,F,Venkatesh Sharma,SC,false,false,Dakshina Kannada,MBBS,1,INS-032,55.53,479122.00,2026-07-04,SCH-01,2026-07-30 13:35:00,false,0.00
+APL-0476,Sowmya Agarwal,2007-05-12,F,Sumanth Yadav,SC,false,false,Dharwad,MBBS,1,INS-011,94.13,365862.00,2026-07-20,SCH-02,2026-07-30 15:03:00,false,0.00
+APL-0477,Harish Patil,2005-01-20,M,Nikhil Nair,OBC,false,false,Dharwad,BA,1,INS-034,48.55,377338.00,2026-07-05,SCH-01,2026-07-30 15:10:00,false,0.00
+APL-0478,Pradeep Sharma,2007-11-14,M,Nikhil Nair,OBC,false,false,Tumakuru,BSC,1,INS-007,85.00,155183.00,2026-06-25,SCH-01,2026-07-30 16:58:00,false,0.00
+APL-0479,Pallavi Setty,2008-11-14,F,Arjun Gowda,GEN,false,false,Mysuru,BCOM,1,INS-034,84.44,747466.00,2026-04-09,SCH-02,2026-07-30 17:17:00,false,0.00
+APL-0480,Fathima Khan,2008-04-07,F,Darshan Shetty,OBC,true,false,Belagavi,BCOM,1,INS-008,73.61,574014.00,2026-04-10,SCH-04,2026-07-30 17:55:00,false,0.00
+APL-0481,Jyothi Joshi,2005-01-25,F,Hemanth Sheikh,OBC,true,false,Belagavi,BPHARM,1,INS-038,64.28,696839.00,2026-02-26,SCH-04,2026-07-30 18:31:00,false,0.00
+APL-0482,Sudha Menon,2007-12-14,F,Ravi Menon,SC,false,false,Kalaburagi,BCOM,1,INS-027,73.28,78337.00,2026-06-27,SCH-04,2026-07-30 19:14:00,false,0.00
+APL-0483,Mohan Shetty,2007-07-18,M,Kiran Yadav,OBC,false,true,Ballari,MBBS,1,INS-039,70.82,526395.00,2026-04-04,SCH-06,2026-07-30 19:55:00,false,0.00
+APL-0484,Swathi Yadav,2007-04-28,F,Deepak Setty,GEN,false,false,Dakshina Kannada,BPHARM,1,INS-010,81.58,435018.00,2026-06-25,SCH-05,2026-07-30 20:15:00,false,0.00
+APL-0485,Sudha Iyer,2007-07-16,F,Manoj Kumar,OBC,false,false,Mysuru,BPHARM,1,INS-038,73.97,243750.00,2026-06-20,SCH-04,2026-07-30 20:35:00,false,0.00
+APL-0486,Rekha Bhat,2005-07-12,F,Ravi Shetty,ST,true,false,Kalaburagi,BPHARM,1,INS-024,69.64,800134.00,2026-06-02,SCH-06,2026-07-30 21:16:00,false,0.00
+APL-0487,Geetha Acharya,2008-02-13,F,Kiran Kumar,GEN,false,false,Kalaburagi,BA,1,INS-027,88.51,211573.00,2026-01-12,SCH-01,2026-07-30 21:22:00,false,0.00
+APL-0488,Swathi Chowdhury,2006-12-09,F,Anil Prabhu,OBC,false,false,Ballari,BCOM,1,INS-022,58.66,190443.00,2026-06-04,SCH-04,2026-07-31 11:34:00,false,0.00
+APL-0489,Sumanth Sharma,2008-11-28,M,Suresh Murthy,GEN,false,false,Hassan,MBBS,1,INS-004,81.97,329255.00,2026-07-28,SCH-01,2026-07-31 13:41:00,false,0.00
+APL-0490,Shruthi Sharma,2007-04-19,F,Kiran Menon,GEN,false,false,Tumakuru,BE,1,INS-021,75.64,566363.00,2026-02-26,SCH-05,2026-07-31 14:39:00,false,0.00
+APL-0491,Sharath Hegde,2006-03-21,M,Lokesh Patil,SC,false,false,Belagavi,BCOM,1,INS-027,86.97,183863.00,2026-04-01,SCH-01,2026-07-31 14:52:00,false,0.00
+APL-0492,Deepak Jain,2007-06-05,M,Karthik Rao,ST,false,false,Dakshina Kannada,BA,1,INS-015,66.00,70000.00,2026-06-16,SCH-02,2026-07-31 15:22:00,false,0.00
+APL-0493,Chetan Menon,2008-03-02,M,Chetan Joshi,GEN,false,false,Dharwad,BCOM,1,INS-013,65.41,129887.00,2026-03-19,SCH-02,2026-07-31 15:37:00,false,0.00
+APL-0494,Ananya Kumar,2007-08-06,F,Jagadish Gowda,OBC,false,true,Bengaluru Urban,MBBS,1,INS-011,76.32,783694.00,2026-02-15,SCH-04,2026-07-31 16:15:00,false,0.00
+APL-0495,Chetan Murthy,2007-12-10,M,Rohit Pillai,OBC,true,false,Ballari,BA,1,INS-027,90.25,156053.00,2026-02-15,SCH-01,2026-07-31 16:55:00,false,0.00
+APL-0496,Rahul Sheikh,2007-10-02,M,Pradeep Kulkarni,OBC,false,false,Hassan,BCOM,1,INS-013,68.00,120000.00,2026-06-06,SCH-02,2026-07-31 17:06:00,false,0.00
+APL-0497,Manjula Shetty,2005-04-21,F,Basavaraj Jain,OBC,false,false,Belagavi,MBBS,1,INS-004,87.48,807457.00,2026-06-28,SCH-03,2026-07-31 17:20:00,false,0.00
+APL-0498,Rohit Singh,2007-08-01,M,Hemanth Desai,GEN,false,false,Tumakuru,BSC,1,INS-020,86.12,789346.00,2026-03-03,SCH-05,2026-07-31 19:55:00,false,0.00
+APL-0499,Rekha Chowdhury,2007-03-03,F,Sharath Sheikh,OBC,false,false,Tumakuru,DIPLOMA,1,INS-019,56.64,243430.00,2026-06-19,SCH-02,2026-07-31 19:56:00,false,0.00
+APL-0500,Prakash Pillai,2007-02-09,M,Sandeep Murthy,OBC,false,false,Kalaburagi,BSC,1,INS-013,56.59,427415.00,2026-04-04,SCH-05,2026-07-31 20:11:00,false,0.00

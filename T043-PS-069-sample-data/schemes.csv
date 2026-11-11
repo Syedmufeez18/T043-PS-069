@@ -1,0 +1,7 @@
+scheme_code,scheme_name,scheme_type,income_ceiling,merit_cutoff_pct,eligible_courses,tuition_cap,maintenance_per_month,book_grant,seats_per_district,renewal_min_marks_pct,renewal_min_marks_sc_st_pct
+SCH-01,Vidyasiri Merit-cum-Means Scholarship,MERIT_CUM_MEANS,250000.00,60.00,BE;BSC;BCOM;BA;BPHARM,50000.00,1500.00,5000.00,7,50.00,45.00
+SCH-02,State Post-Matric Means Scholarship,MEANS,450000.00,0.00,BE;BSC;BCOM;BA;BPHARM;DIPLOMA;MBBS,40000.00,1000.00,5000.00,,50.00,45.00
+SCH-03,Chief Minister's Merit Award,MERIT,600000.00,85.00,BE;MBBS;BSC,75000.00,0.00,5000.00,10,50.00,45.00
+SCH-04,Minority Post-Matric Scholarship,MINORITY,200000.00,50.00,BE;BSC;BCOM;BA;BPHARM;DIPLOMA;MBBS,30000.00,1200.00,5000.00,,50.00,45.00
+SCH-05,Professional Course Fee Reimbursement,MEANS,250000.00,0.00,BE;MBBS;BPHARM,100000.00,0.00,5000.00,,50.00,45.00
+SCH-06,Rural Merit-cum-Means Scholarship,MERIT_CUM_MEANS,450000.00,70.00,BSC;BA;BCOM;DIPLOMA,25000.00,800.00,5000.00,,50.00,45.00

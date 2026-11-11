@@ -1,0 +1,41 @@
+institution_code,institution_name,district,recognised
+INS-001,Bengaluru Government First Grade College,Bengaluru Urban,true
+INS-002,Mysuru Institute of Technology,Mysuru,true
+INS-003,Belagavi College of Pharmacy,Belagavi,true
+INS-004,Dharwad Medical College,Dharwad,true
+INS-005,Dakshina Polytechnic,Dakshina Kannada,true
+INS-006,Kalaburagi PU & Degree College,Kalaburagi,true
+INS-007,Tumakuru Engineering College,Tumakuru,true
+INS-008,Shivamogga Government First Grade College,Shivamogga,true
+INS-009,Ballari Institute of Technology,Ballari,true
+INS-010,Hassan College of Pharmacy,Hassan,true
+INS-011,Bengaluru Medical College 2,Bengaluru Urban,true
+INS-012,Mysuru Polytechnic 2,Mysuru,true
+INS-013,Belagavi PU & Degree College 2,Belagavi,true
+INS-014,Dharwad Engineering College 2,Dharwad,true
+INS-015,Dakshina Government First Grade College 2,Dakshina Kannada,true
+INS-016,Kalaburagi Institute of Technology 2,Kalaburagi,true
+INS-017,Tumakuru College of Pharmacy 2,Tumakuru,true
+INS-018,Shivamogga Medical College 2,Shivamogga,false
+INS-019,Ballari Polytechnic 2,Ballari,true
+INS-020,Hassan PU & Degree College 2,Hassan,true
+INS-021,Bengaluru Engineering College 3,Bengaluru Urban,true
+INS-022,Mysuru Government First Grade College 3,Mysuru,true
+INS-023,Belagavi Institute of Technology 3,Belagavi,true
+INS-024,Dharwad College of Pharmacy 3,Dharwad,true
+INS-025,Dakshina Medical College 3,Dakshina Kannada,true
+INS-026,Kalaburagi Polytechnic 3,Kalaburagi,true
+INS-027,Tumakuru PU & Degree College 3,Tumakuru,true
+INS-028,Shivamogga Engineering College 3,Shivamogga,true
+INS-029,Ballari Government First Grade College 3,Ballari,true
+INS-030,Hassan Institute of Technology 3,Hassan,true
+INS-031,Bengaluru College of Pharmacy 4,Bengaluru Urban,true
+INS-032,Mysuru Medical College 4,Mysuru,true
+INS-033,Belagavi Polytechnic 4,Belagavi,true
+INS-034,Dharwad PU & Degree College 4,Dharwad,false
+INS-035,Dakshina Engineering College 4,Dakshina Kannada,true
+INS-036,Kalaburagi Government First Grade College 4,Kalaburagi,true
+INS-037,Tumakuru Institute of Technology 4,Tumakuru,true
+INS-038,Shivamogga College of Pharmacy 4,Shivamogga,true
+INS-039,Ballari Medical College 4,Ballari,false
+INS-040,Hassan Polytechnic 4,Hassan,true
